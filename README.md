@@ -18,7 +18,7 @@ Jeffrey P. Townsend[^1],[^2],[^3],[^\*], Stephen Gaughran[^3],[^4], Hayley B. Ha
 [^9]: Department of Bioinformatics and Genomics, University of North Carolina, Charlotte, NC 28223, USA
 
 
-[^*]:Corresponding authors
+[^\*]: Corresponding authors
   Jeffrey P. Townsend
   135 College St, New Haven, CT 06510-2483. jeffrey.townsend@yale.edu, (203) 737-7042
   Alex Dornburg
