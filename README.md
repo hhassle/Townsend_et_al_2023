@@ -45,6 +45,6 @@ This directory contains MASS-PRF input and output files, PAML input and output f
 
 ~/Phylogenies/ contains newick files for molecular RAxML, molecular IQ-TREE 2, time-dated IQ-TREE 2, and time-dated RTDT phylogenies.
 
-Link to mass-prf-protein-coloring scripts:
-https://github.com/Townsend-Lab-Yale/massprf-protein-coloring
+Link to [mass-prf-protein-coloring](https://github.com/Townsend-Lab-Yale/massprf-protein-coloring) scripts.
+
 
