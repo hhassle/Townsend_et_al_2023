@@ -31,7 +31,7 @@ hayley.hassler@yale.edu<br>
 
 This directory contains MASS-PRF input and output files, PAML input and output files, newick tree files, phylogenetic informativeness input files and scripts, and link to mass-prf-protein-coloring scripts.
 
-~/MASSPRF_input/ contains fast alignment files for all SARS-CoV-1 and SARS-CoV-2 loci used for MASS-PRF analysis.
+~/[MASSPRF_input](https://github.com/hhassle/Townsend_et_al_2023/tree/main/MASSPRF_input)/ contains fast alignment files for all SARS-CoV-1 and SARS-CoV-2 loci used for MASS-PRF analysis.
 
 ~/PAML_input/ contains fast alignment files and newick files for all SARS-CoV-1 and SARS-CoV-2 loci used for PAML analysis.
 
