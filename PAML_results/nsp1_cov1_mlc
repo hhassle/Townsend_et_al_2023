@@ -1,0 +1,580 @@
+      6    540
+
+NC_004718.3_SARS_CO             ATG GAG AGC CTT GTT CTT GGT GTC AAC GAG AAA ACA CAC GTC CAA CTC AGT TTG CCT GTC CTT CAG GTT AGA GAC GTG CTA GTG CGT GGC TTC GGG GAC TCT GTG GAA GAG GCC CTA TCG GAG GCA CGT GAA CAC CTC AAA AAT GGC ACT TGT GGT CTA GTA GAG CTG GAA AAA GGC GTA CTG CCC CAG CTT GAA CAG CCC TAT GTG TTC ATT AAA CGT TCT GAT GCC TTA AGC ACC AAT CAC GGC CAC AAG GTC GTT GAG CTG GTT GCA GAA ATG GAC GGC ATT CAG TAC GGT CGT AGC GGT ATA ACA CTG GGA GTA CTC GTG CCA CAT GTG GGC GAA ACC CCA ATT GCA TAC CGC AAT GTT CTT CTT CGT AAG AAC GGT AAT AAG GGA GCC GGT GGT CAT AGC TAT GGC ATC GAT CTA AAG TCT TAT GAC TTA GGT GAC GAG CTT GGC ACT GAT CCC ATT GAA GAT TAT GAA CAA AAC TGG AAC ACT AAG CAT GGC AGT GGT GCA CTC CGT GAA CTC ACT CGT GAG CTC AAT GGA GGT 
+AY502932.1_SARS_COR             ATG GAG AGC CTT GTT CTT GGT GTC AAC GAG AAA ACA CAC GTC CAA CTC AGT TTG CCT GTC CTT CAG GTT AGA GAC GTG CTA GTG CGT GGC TTC GGG GAC TCT GTG GAA GAG GCC CTA TCG GAG GCA CGT GAA CAC CTC AAA AAT GGC ACT TGT GGT CTA GTA GAG CTG GAA AAA GGC GTA CTG CCC CAG CTT GAA CAG CCC TAT GTG TTC ATT AAA CGT TCT GAT GCC TTA AGC ACC AAT CAC GGC CAC AAG GTC GTT GAG CTG GTT GCA GAA ATG GAC GGC ATT CAG TAC GGT CGT AGC GGT ATA ACA CTG GGA GTA CTC GTG CCA CAT GTG GGC GAA ACC CCA ATT GCA TAC CGC AAT GTT CTT CTT CGT AAG AAC GGT AAT AAG GGA GCC GGT GGT CAT AGC TAT GGC ATC GAT CTA AAG TCT TAT GAC TTA GGT GAC GAG CTT GGC ACT GAT CCC ATT GAA GAT TAT GAA CAA AAC TGG AAC ACT AAG CAT GGC AGT GGT GCA CTC CGT GAA CTC ACT CGT GAG CTC AAT GGA GGT 
+AY559082.1_SARS_COR             ATG GAG AGC CTT GTT CTT GGT GTC AAC GAG AAA ACA CAC GTC CAA CTC AGT TTG CCT GTC CTT CAG GTT AGA GAC GTG CTA GTG CGT GGC TTC GGG GAC TCT GTG GAA GAG GCC CTA TCG GAG GCA CGT GAA CAC CTC AAA AAT GGC ACT TGT GGT CTA GTA GAG CTG GAA AAA GGC GTA CTG CCC CAG CTT GAA CAG CCC TAT GTG TTC ATT AAA CGT TCT GAT GCC TTA AGC ACC AAT CAC GGC CAC AAG GTC GTT GAG CTG GTT GCA GAA ATG GAC GGC ACT CAG TAC GGT CGT AGC GGT ATA ACA CTG GGA GTA CTC GTG CCA CAT GTG GGC GAA ACC CCA ATT GCA TAC CGC AAT GTT CTT CTT CGT AAG AAC GGT AAT AAG GGA GCC GGT GGT CAT AGC TAT GGC ATC GAT CTA AAG TCT TAT GAC TTA GGT GAC GAG CTT GGC ACT GAT CCC ATT GAA GAT TAT GAA CAA AAC TGG AAC ACT AAG CAT GGC AGT GGT GCA CTC CGT GAA CTC ACT CGT GAG CTC AAT GGA GGT 
+AY394850.2_SARS_COR             ATG GAG AGC CTT GTT CTT GGT GTC AAC GAG AAA ACA CAC GTC CAA CTC AGT TTG CCT GTC CTT CAG GTT AGA GAC GTG CTA GTG CGT GGC TTC GGG AAC TCT GTG GAA GAG GCC CTA TCG GAG GCA CGT GAA CAC CTC AAA AAT GGC ACT TGT GGT CTA GTA GAG CTG GAA AAA GGC GTA CTG CCC CAG CTT GAA CAG CCC TAT GTG TTC ATT AAA CGT TCT GAT GCC TTA AGC ACC AAT CAC GGC CAC AAG GTC GTT GAG CTG GTT GCA GAA ATG GAC GGC ATT CAG TAC GGT CGT AGC GGT ATA ACA CTG GGA GTA CTC GTG CCA CAT GTG GGC GAA ACC CCA ATT GCA TAC CGC AAT GTT CTT CTT CGT AAG AAC GGT AAT AAG GGA GCC GGT GGT CAT AGC TAT GGC ATC GAT CTA AAG TCT TAT GAC TTA GGT GAC GAG CTT GGC ACT GAT CCC ATT GAA GAT TAT GAA CAA AAC TGG AAC ACT AAG CAT GGC AGT GGT GCA CTC CGT GAA CTC ACT CGT GAG CTC AAT GGA GGT 
+AY390556.1_SARS_COR             ATG GAG AGC CTT GTT CTT GGT GTC AAC GAG AAA ACA CAC GTC CAA CTC AGT TTG CCT GTC CTT CAG GTT AGA GAC GTG CTA GTG CGT GGC TTC GGG GAC TCT GTG GAA GAG GCC CTA TCG GAG GCA CGT GAA CAC CTC AAA AAT GGC ACT TGT GGT CTA GTA GAG CTG GAA AAA GGC GTA CTG CCC CAG CTT GAA CAG CCC TAT GTG TTC ATT AAA CGT TCT GAT GCC TTA AGC ACC AAT CAC TGC CAC AAG GTC GTT GAG CTG GTT GCA GAA ATG GAC GGC ATT CAG TAC GGT CGT AGC GGT ATA ACA CTG GGA GTA CTC GTG CCA CAT GTG GGC GAA ACC CCA ATT GCA TAC CGC AAT GTT CTT CTT CGT AAG AAC GGT AAT AAG GGA GCC GGT GGT CAT AGC TAT GGC ATC GAT CTA AAG TCT TAT GAC TTA GGT GAC GAG CTT GGC ACT GAT CCC ATT GAA GAT TAT GAA CAA AAC TGG AAC ACT AAG CAT GGC AGT GGT GCA CTC CGT GAA CTC ACT CGT GAG CTC AAT GGA GGT 
+AY278489.2_SARS_COR             ATG GAG AGC CTT GTT CTT GGT GTC AAC GAG AAA ACA CAC GTC CAA CTC AGT TTG CCT GTC CTT CAG GTT AGA GAC GTG CTA GTG CGT GGC TTC GGG GAC TCT GTG GAA GAG GCC CTA TCG GAG GCA CGT GAA CAC CTC AAA AAT GGC ACT TGT GGT CTA GTA GAG CTG GAA AAA GGC GTA CTG CCC CAG CTT GAA CAG CCC TAT GTG TTC ATT AAA CGT TCT GAT GCC TTA AGC ACC AAT CAC TGC CAC AAG GTC GTT GAG CTG GTT GCA GAA ATG GAC GGC ATT CAG TAC GGT CGT AGC GGT ATA ACA CTG GGA GTA CTC GTG CCA CAT GTG GGC GAA ACC CCA ATT GCA TAC CGC AAT GTT CTT CTT CGT AAG AAC GGT AAT AAG AGA GCC GGT GGT CAT AGC TAT GGC ATC GAT CTA AAG TCT TAT GAC TTA GGT GAC GAG CTT GGC ACT GAT CCC ATT GAA GAT TAT GAA CAA AAC TGG AAC ACT AAG CAT GGC AGT GGT GCA CTC CGT GAA CTC ACT CGT GAG CTC AAT GGA GGT 
+
+
+
+Printing out site pattern counts
+
+
+         6        162  P
+
+NC_004718.3_SARS_CO             AAA AAC AAG AAT ACA ACC ACT AGA AGC AGT ATA ATC ATG ATT ATT CAA CAC CAG CAT CCA CCC CCT CGC CGT CTA CTC CTG CTT GAA GAC GAC GAG GAT GCA GCC GGA GGA GGC GGC GGG GGT GTA GTC GTG GTT TAC TAT TCG TCT TGG TGT TTA TTC TTG 
+AY502932.1_SARS_COR             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+AY559082.1_SARS_COR             ... ... ... ... ... ... ... ... ... ... ... ... ... .C. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+AY394850.2_SARS_COR             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... A.. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+AY390556.1_SARS_COR             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... T.. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+AY278489.2_SARS_COR             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... A.. ... ... T.. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+
+    4    4    5    5    2    2    4    1    4    2    1    1    2    1    3
+    2    4    4    3    2    3    1    1    7    4    6    4    7    9    1
+    4    8    4    4    3    1    2    8    1    1   10    3    4    6    5
+    2    4    1    3    1    1    2    2    1
+
+CODONML (in paml version 4.9j, February 2020)  /home/sjg73/project/COVID_paml/renamed_nsps/uniq_SARS_orf1a_nsp1_rename.fasta
+Model: One dN/dS ratio, 
+Codon frequency model: Fequal
+Site-class models:  beta&w>1 (6 categories)
+ns =   6  ls = 180
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   0   0   0   0 | Ser TCT   3   3   3   3   3   3 | Tyr TAT   4   4   4   4   4   4 | Cys TGT   1   1   1   1   1   1
+    TTC   2   2   2   2   2   2 |     TCC   0   0   0   0   0   0 |     TAC   2   2   2   2   2   2 |     TGC   0   0   0   0   1   1
+Leu TTA   2   2   2   2   2   2 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   1   1   1   1 |     TCG   1   1   1   1   1   1 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   7   7   7   7   7   7 | Pro CCT   1   1   1   1   1   1 | His CAT   3   3   3   3   3   3 | Arg CGT   7   7   7   7   7   7
+    CTC   6   6   6   6   6   6 |     CCC   3   3   3   3   3   3 |     CAC   4   4   4   4   4   4 |     CGC   1   1   1   1   1   1
+    CTA   4   4   4   4   4   4 |     CCA   2   2   2   2   2   2 | Gln CAA   2   2   2   2   2   2 |     CGA   0   0   0   0   0   0
+    CTG   4   4   4   4   4   4 |     CCG   0   0   0   0   0   0 |     CAG   4   4   4   4   4   4 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   4   4   3   4   4   4 | Thr ACT   4   4   5   4   4   4 | Asn AAT   5   5   5   5   5   5 | Ser AGT   2   2   2   2   2   2
+    ATC   1   1   1   1   1   1 |     ACC   2   2   2   2   2   2 |     AAC   4   4   4   5   4   4 |     AGC   4   4   4   4   4   4
+    ATA   1   1   1   1   1   1 |     ACA   2   2   2   2   2   2 | Lys AAA   4   4   4   4   4   4 | Arg AGA   1   1   1   1   1   2
+Met ATG   2   2   2   2   2   2 |     ACG   0   0   0   0   0   0 |     AAG   5   5   5   5   5   5 |     AGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   5   5   5   5   5   5 | Ala GCT   0   0   0   0   0   0 | Asp GAT   4   4   4   4   4   4 | Gly GGT  10  10  10  10  10  10
+    GTC   4   4   4   4   4   4 |     GCC   3   3   3   3   3   3 |     GAC   5   5   5   4   5   5 |     GGC   9   9   9   9   8   8
+    GTA   3   3   3   3   3   3 |     GCA   4   4   4   4   4   4 | Glu GAA   9   9   9   9   9   9 |     GGA   3   3   3   3   3   2
+    GTG   6   6   6   6   6   6 |     GCG   0   0   0   0   0   0 |     GAG   8   8   8   8   8   8 |     GGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: NC_004718.3_SARS_CO
+position  1:    T:0.09444    C:0.26667    A:0.22778    G:0.41111
+position  2:    T:0.28889    C:0.13889    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.23889    C:0.22778    A:0.26111    G:0.27222
+
+#2: AY502932.1_SARS_COR
+position  1:    T:0.09444    C:0.26667    A:0.22778    G:0.41111
+position  2:    T:0.28889    C:0.13889    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.23889    C:0.22778    A:0.26111    G:0.27222
+
+#3: AY559082.1_SARS_COR
+position  1:    T:0.09444    C:0.26667    A:0.22778    G:0.41111
+position  2:    T:0.28333    C:0.14444    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.23704    C:0.22963    A:0.26111    G:0.27222
+
+#4: AY394850.2_SARS_COR
+position  1:    T:0.09444    C:0.26667    A:0.23333    G:0.40556
+position  2:    T:0.28889    C:0.13889    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.23889    C:0.22778    A:0.26296    G:0.27037
+
+#5: AY390556.1_SARS_COR
+position  1:    T:0.10000    C:0.26667    A:0.22778    G:0.40556
+position  2:    T:0.28889    C:0.13889    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.24074    C:0.22778    A:0.26111    G:0.27037
+
+#6: AY278489.2_SARS_COR
+position  1:    T:0.10000    C:0.26667    A:0.23333    G:0.40000
+position  2:    T:0.28889    C:0.13889    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.24074    C:0.22778    A:0.26296    G:0.26852
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT       0 | Ser S TCT      18 | Tyr Y TAT      24 | Cys C TGT       6
+      TTC      12 |       TCC       0 |       TAC      12 |       TGC       2
+Leu L TTA      12 |       TCA       0 | *** * TAA       0 | *** * TGA       0
+      TTG       6 |       TCG       6 |       TAG       0 | Trp W TGG       6
+------------------------------------------------------------------------------
+Leu L CTT      42 | Pro P CCT       6 | His H CAT      18 | Arg R CGT      42
+      CTC      36 |       CCC      18 |       CAC      24 |       CGC       6
+      CTA      24 |       CCA      12 | Gln Q CAA      12 |       CGA       0
+      CTG      24 |       CCG       0 |       CAG      24 |       CGG       0
+------------------------------------------------------------------------------
+Ile I ATT      23 | Thr T ACT      25 | Asn N AAT      30 | Ser S AGT      12
+      ATC       6 |       ACC      12 |       AAC      25 |       AGC      24
+      ATA       6 |       ACA      12 | Lys K AAA      24 | Arg R AGA       7
+Met M ATG      12 |       ACG       0 |       AAG      30 |       AGG       0
+------------------------------------------------------------------------------
+Val V GTT      30 | Ala A GCT       0 | Asp D GAT      24 | Gly G GGT      60
+      GTC      24 |       GCC      18 |       GAC      29 |       GGC      52
+      GTA      18 |       GCA      24 | Glu E GAA      54 |       GGA      17
+      GTG      36 |       GCG       0 |       GAG      48 |       GGG       6
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.09630    C:0.26667    A:0.22963    G:0.40741
+position  2:    T:0.28796    C:0.13981    A:0.35000    G:0.22222
+position  3:    T:0.33333    C:0.27778    A:0.20556    G:0.18333
+Average         T:0.23920    C:0.22809    A:0.26173    G:0.27099
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.00000000  0.00000000
+  0.01639344  0.01639344  0.00000000  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+
+
+TREE #  1:  (2, (((6, 5), 4), 3), 1);   MP score: 4
+lnL(ntime:  9  np: 14):   -770.462586      +0.000000
+   7..2     7..8     8..9     9..10   10..6    10..5     9..4     8..3     7..1  
+ 0.000004 0.000004 0.000004 0.005513 0.005499 0.000004 0.005502 0.005503 0.000004 7.262115 0.000010 3.237224 0.005000 999.000000
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  0.022036
+
+(2: 0.000004, (((6: 0.005499, 5: 0.000004): 0.005513, 4: 0.005502): 0.000004, 3: 0.005503): 0.000004, 1: 0.000004);
+
+(AY502932.1_SARS_COR: 0.000004, (((AY278489.2_SARS_COR: 0.005499, AY390556.1_SARS_COR: 0.000004): 0.005513, AY394850.2_SARS_COR: 0.005502): 0.000004, AY559082.1_SARS_COR: 0.005503): 0.000004, NC_004718.3_SARS_CO: 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  7.26211
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.00001  p =   3.23722 q =   0.00500
+ (p1 =   0.99999) w = 999.00000
+
+
+MLEs of dN/dS (w) for site classes (K=6)
+
+p:   0.00000  0.00000  0.00000  0.00000  0.00000  0.99999
+w:   1.00000  1.00000  1.00000  1.00000  1.00000 999.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   7..2       0.000    368.1    171.9 998.9900   0.0000   0.0000    0.0    0.0
+   7..8       0.000    368.1    171.9 998.9900   0.0000   0.0000    0.0    0.0
+   8..9       0.000    368.1    171.9 998.9900   0.0000   0.0000    0.0    0.0
+   9..10      0.006    368.1    171.9 998.9900   0.0027   0.0000    1.0    0.0
+  10..6       0.005    368.1    171.9 998.9900   0.0027   0.0000    1.0    0.0
+  10..5       0.000    368.1    171.9 998.9900   0.0000   0.0000    0.0    0.0
+   9..4       0.006    368.1    171.9 998.9900   0.0027   0.0000    1.0    0.0
+   8..3       0.006    368.1    171.9 998.9900   0.0027   0.0000    1.0    0.0
+   7..1       0.000    368.1    171.9 998.9900   0.0000   0.0000    0.0    0.0
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: NC_004718.3_SARS_CO)
+
+            Pr(w>1)     post mean +- SE for w
+
+     1 M      1.000**       998.990
+     2 E      1.000**       998.990
+     3 S      1.000**       998.990
+     4 L      1.000**       998.990
+     5 V      1.000**       998.990
+     6 L      1.000**       998.990
+     7 G      1.000**       998.990
+     8 V      1.000**       998.990
+     9 N      1.000**       998.990
+    10 E      1.000**       998.990
+    11 K      1.000**       998.990
+    12 T      1.000**       998.990
+    13 H      1.000**       998.990
+    14 V      1.000**       998.990
+    15 Q      1.000**       998.990
+    16 L      1.000**       998.990
+    17 S      1.000**       998.990
+    18 L      1.000**       998.990
+    19 P      1.000**       998.990
+    20 V      1.000**       998.990
+    21 L      1.000**       998.990
+    22 Q      1.000**       998.990
+    23 V      1.000**       998.990
+    24 R      1.000**       998.990
+    25 D      1.000**       998.990
+    26 V      1.000**       998.990
+    27 L      1.000**       998.990
+    28 V      1.000**       998.990
+    29 R      1.000**       998.990
+    30 G      1.000**       998.990
+    31 F      1.000**       998.990
+    32 G      1.000**       998.990
+    33 D      1.000**       999.000
+    34 S      1.000**       998.990
+    35 V      1.000**       998.990
+    36 E      1.000**       998.990
+    37 E      1.000**       998.990
+    38 A      1.000**       998.990
+    39 L      1.000**       998.990
+    40 S      1.000**       998.990
+    41 E      1.000**       998.990
+    42 A      1.000**       998.990
+    43 R      1.000**       998.990
+    44 E      1.000**       998.990
+    45 H      1.000**       998.990
+    46 L      1.000**       998.990
+    47 K      1.000**       998.990
+    48 N      1.000**       998.990
+    49 G      1.000**       998.990
+    50 T      1.000**       998.990
+    51 C      1.000**       998.990
+    52 G      1.000**       998.990
+    53 L      1.000**       998.990
+    54 V      1.000**       998.990
+    55 E      1.000**       998.990
+    56 L      1.000**       998.990
+    57 E      1.000**       998.990
+    58 K      1.000**       998.990
+    59 G      1.000**       998.990
+    60 V      1.000**       998.990
+    61 L      1.000**       998.990
+    62 P      1.000**       998.990
+    63 Q      1.000**       998.990
+    64 L      1.000**       998.990
+    65 E      1.000**       998.990
+    66 Q      1.000**       998.990
+    67 P      1.000**       998.990
+    68 Y      1.000**       998.990
+    69 V      1.000**       998.990
+    70 F      1.000**       998.990
+    71 I      1.000**       998.990
+    72 K      1.000**       998.990
+    73 R      1.000**       998.990
+    74 S      1.000**       998.990
+    75 D      1.000**       998.990
+    76 A      1.000**       998.990
+    77 L      1.000**       998.990
+    78 S      1.000**       998.990
+    79 T      1.000**       998.990
+    80 N      1.000**       998.990
+    81 H      1.000**       998.990
+    82 G      1.000**       999.000
+    83 H      1.000**       998.990
+    84 K      1.000**       998.990
+    85 V      1.000**       998.990
+    86 V      1.000**       998.990
+    87 E      1.000**       998.990
+    88 L      1.000**       998.990
+    89 V      1.000**       998.990
+    90 A      1.000**       998.990
+    91 E      1.000**       998.990
+    92 M      1.000**       998.990
+    93 D      1.000**       998.990
+    94 G      1.000**       998.990
+    95 I      1.000**       999.000
+    96 Q      1.000**       998.990
+    97 Y      1.000**       998.990
+    98 G      1.000**       998.990
+    99 R      1.000**       998.990
+   100 S      1.000**       998.990
+   101 G      1.000**       998.990
+   102 I      1.000**       998.990
+   103 T      1.000**       998.990
+   104 L      1.000**       998.990
+   105 G      1.000**       998.990
+   106 V      1.000**       998.990
+   107 L      1.000**       998.990
+   108 V      1.000**       998.990
+   109 P      1.000**       998.990
+   110 H      1.000**       998.990
+   111 V      1.000**       998.990
+   112 G      1.000**       998.990
+   113 E      1.000**       998.990
+   114 T      1.000**       998.990
+   115 P      1.000**       998.990
+   116 I      1.000**       998.990
+   117 A      1.000**       998.990
+   118 Y      1.000**       998.990
+   119 R      1.000**       998.990
+   120 N      1.000**       998.990
+   121 V      1.000**       998.990
+   122 L      1.000**       998.990
+   123 L      1.000**       998.990
+   124 R      1.000**       998.990
+   125 K      1.000**       998.990
+   126 N      1.000**       998.990
+   127 G      1.000**       998.990
+   128 N      1.000**       998.990
+   129 K      1.000**       998.990
+   130 G      1.000**       999.000
+   131 A      1.000**       998.990
+   132 G      1.000**       998.990
+   133 G      1.000**       998.990
+   134 H      1.000**       998.990
+   135 S      1.000**       998.990
+   136 Y      1.000**       998.990
+   137 G      1.000**       998.990
+   138 I      1.000**       998.990
+   139 D      1.000**       998.990
+   140 L      1.000**       998.990
+   141 K      1.000**       998.990
+   142 S      1.000**       998.990
+   143 Y      1.000**       998.990
+   144 D      1.000**       998.990
+   145 L      1.000**       998.990
+   146 G      1.000**       998.990
+   147 D      1.000**       998.990
+   148 E      1.000**       998.990
+   149 L      1.000**       998.990
+   150 G      1.000**       998.990
+   151 T      1.000**       998.990
+   152 D      1.000**       998.990
+   153 P      1.000**       998.990
+   154 I      1.000**       998.990
+   155 E      1.000**       998.990
+   156 D      1.000**       998.990
+   157 Y      1.000**       998.990
+   158 E      1.000**       998.990
+   159 Q      1.000**       998.990
+   160 N      1.000**       998.990
+   161 W      1.000**       998.990
+   162 N      1.000**       998.990
+   163 T      1.000**       998.990
+   164 K      1.000**       998.990
+   165 H      1.000**       998.990
+   166 G      1.000**       998.990
+   167 S      1.000**       998.990
+   168 G      1.000**       998.990
+   169 A      1.000**       998.990
+   170 L      1.000**       998.990
+   171 R      1.000**       998.990
+   172 E      1.000**       998.990
+   173 L      1.000**       998.990
+   174 T      1.000**       998.990
+   175 R      1.000**       998.990
+   176 E      1.000**       998.990
+   177 L      1.000**       998.990
+   178 N      1.000**       998.990
+   179 G      1.000**       998.990
+   180 G      1.000**       998.990
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: NC_004718.3_SARS_CO)
+
+            Pr(w>1)     post mean +- SE for w
+
+     1 M      0.819         7.551 +- 3.597
+     2 E      0.819         7.551 +- 3.597
+     3 S      0.819         7.551 +- 3.597
+     4 L      0.819         7.551 +- 3.597
+     5 V      0.819         7.551 +- 3.597
+     6 L      0.819         7.551 +- 3.597
+     7 G      0.819         7.551 +- 3.597
+     8 V      0.819         7.551 +- 3.597
+     9 N      0.819         7.551 +- 3.597
+    10 E      0.819         7.551 +- 3.597
+    11 K      0.819         7.551 +- 3.597
+    12 T      0.819         7.551 +- 3.597
+    13 H      0.819         7.551 +- 3.597
+    14 V      0.819         7.551 +- 3.597
+    15 Q      0.819         7.551 +- 3.597
+    16 L      0.819         7.551 +- 3.597
+    17 S      0.819         7.551 +- 3.597
+    18 L      0.819         7.551 +- 3.597
+    19 P      0.819         7.551 +- 3.597
+    20 V      0.819         7.551 +- 3.597
+    21 L      0.819         7.551 +- 3.597
+    22 Q      0.819         7.551 +- 3.597
+    23 V      0.819         7.551 +- 3.597
+    24 R      0.819         7.551 +- 3.597
+    25 D      0.819         7.551 +- 3.597
+    26 V      0.819         7.551 +- 3.597
+    27 L      0.819         7.551 +- 3.597
+    28 V      0.819         7.551 +- 3.597
+    29 R      0.819         7.551 +- 3.597
+    30 G      0.819         7.551 +- 3.597
+    31 F      0.819         7.551 +- 3.597
+    32 G      0.819         7.551 +- 3.597
+    33 D      0.984*        8.976 +- 1.858
+    34 S      0.819         7.551 +- 3.597
+    35 V      0.819         7.551 +- 3.597
+    36 E      0.819         7.551 +- 3.597
+    37 E      0.819         7.551 +- 3.597
+    38 A      0.819         7.551 +- 3.597
+    39 L      0.819         7.551 +- 3.597
+    40 S      0.819         7.551 +- 3.597
+    41 E      0.819         7.551 +- 3.597
+    42 A      0.819         7.551 +- 3.597
+    43 R      0.819         7.551 +- 3.597
+    44 E      0.819         7.551 +- 3.597
+    45 H      0.819         7.551 +- 3.597
+    46 L      0.819         7.551 +- 3.597
+    47 K      0.819         7.551 +- 3.597
+    48 N      0.819         7.551 +- 3.597
+    49 G      0.819         7.551 +- 3.597
+    50 T      0.819         7.551 +- 3.597
+    51 C      0.819         7.551 +- 3.597
+    52 G      0.819         7.551 +- 3.597
+    53 L      0.819         7.551 +- 3.597
+    54 V      0.819         7.551 +- 3.597
+    55 E      0.819         7.551 +- 3.597
+    56 L      0.819         7.551 +- 3.597
+    57 E      0.819         7.551 +- 3.597
+    58 K      0.819         7.551 +- 3.597
+    59 G      0.819         7.551 +- 3.597
+    60 V      0.819         7.551 +- 3.597
+    61 L      0.819         7.551 +- 3.597
+    62 P      0.819         7.551 +- 3.597
+    63 Q      0.819         7.551 +- 3.597
+    64 L      0.819         7.551 +- 3.597
+    65 E      0.819         7.551 +- 3.597
+    66 Q      0.819         7.551 +- 3.597
+    67 P      0.819         7.551 +- 3.597
+    68 Y      0.819         7.551 +- 3.597
+    69 V      0.819         7.551 +- 3.597
+    70 F      0.819         7.551 +- 3.597
+    71 I      0.819         7.551 +- 3.597
+    72 K      0.819         7.551 +- 3.597
+    73 R      0.819         7.551 +- 3.597
+    74 S      0.819         7.551 +- 3.597
+    75 D      0.819         7.551 +- 3.597
+    76 A      0.819         7.551 +- 3.597
+    77 L      0.819         7.551 +- 3.597
+    78 S      0.819         7.551 +- 3.597
+    79 T      0.819         7.551 +- 3.597
+    80 N      0.819         7.551 +- 3.597
+    81 H      0.819         7.551 +- 3.597
+    82 G      0.984*        8.976 +- 1.858
+    83 H      0.819         7.551 +- 3.597
+    84 K      0.819         7.551 +- 3.597
+    85 V      0.819         7.551 +- 3.597
+    86 V      0.819         7.551 +- 3.597
+    87 E      0.819         7.551 +- 3.597
+    88 L      0.819         7.551 +- 3.597
+    89 V      0.819         7.551 +- 3.597
+    90 A      0.819         7.551 +- 3.597
+    91 E      0.819         7.551 +- 3.597
+    92 M      0.819         7.551 +- 3.597
+    93 D      0.819         7.551 +- 3.597
+    94 G      0.819         7.551 +- 3.597
+    95 I      0.984*        8.976 +- 1.858
+    96 Q      0.819         7.551 +- 3.597
+    97 Y      0.819         7.551 +- 3.597
+    98 G      0.819         7.551 +- 3.597
+    99 R      0.819         7.551 +- 3.597
+   100 S      0.819         7.551 +- 3.597
+   101 G      0.819         7.551 +- 3.597
+   102 I      0.819         7.551 +- 3.597
+   103 T      0.819         7.551 +- 3.597
+   104 L      0.819         7.551 +- 3.597
+   105 G      0.819         7.551 +- 3.597
+   106 V      0.819         7.551 +- 3.597
+   107 L      0.819         7.551 +- 3.597
+   108 V      0.819         7.551 +- 3.597
+   109 P      0.819         7.551 +- 3.597
+   110 H      0.819         7.551 +- 3.597
+   111 V      0.819         7.551 +- 3.597
+   112 G      0.819         7.551 +- 3.597
+   113 E      0.819         7.551 +- 3.597
+   114 T      0.819         7.551 +- 3.597
+   115 P      0.819         7.551 +- 3.597
+   116 I      0.819         7.551 +- 3.597
+   117 A      0.819         7.551 +- 3.597
+   118 Y      0.819         7.551 +- 3.597
+   119 R      0.819         7.551 +- 3.597
+   120 N      0.819         7.551 +- 3.597
+   121 V      0.819         7.551 +- 3.597
+   122 L      0.819         7.551 +- 3.597
+   123 L      0.819         7.551 +- 3.597
+   124 R      0.819         7.551 +- 3.597
+   125 K      0.819         7.551 +- 3.597
+   126 N      0.819         7.551 +- 3.597
+   127 G      0.819         7.551 +- 3.597
+   128 N      0.819         7.551 +- 3.597
+   129 K      0.819         7.551 +- 3.597
+   130 G      0.984*        8.976 +- 1.858
+   131 A      0.819         7.551 +- 3.597
+   132 G      0.819         7.551 +- 3.597
+   133 G      0.819         7.551 +- 3.597
+   134 H      0.819         7.551 +- 3.597
+   135 S      0.819         7.551 +- 3.597
+   136 Y      0.819         7.551 +- 3.597
+   137 G      0.819         7.551 +- 3.597
+   138 I      0.819         7.551 +- 3.597
+   139 D      0.819         7.551 +- 3.597
+   140 L      0.819         7.551 +- 3.597
+   141 K      0.819         7.551 +- 3.597
+   142 S      0.819         7.551 +- 3.597
+   143 Y      0.819         7.551 +- 3.597
+   144 D      0.819         7.551 +- 3.597
+   145 L      0.819         7.551 +- 3.597
+   146 G      0.819         7.551 +- 3.597
+   147 D      0.819         7.551 +- 3.597
+   148 E      0.819         7.551 +- 3.597
+   149 L      0.819         7.551 +- 3.597
+   150 G      0.819         7.551 +- 3.597
+   151 T      0.819         7.551 +- 3.597
+   152 D      0.819         7.551 +- 3.597
+   153 P      0.819         7.551 +- 3.597
+   154 I      0.819         7.551 +- 3.597
+   155 E      0.819         7.551 +- 3.597
+   156 D      0.819         7.551 +- 3.597
+   157 Y      0.819         7.551 +- 3.597
+   158 E      0.819         7.551 +- 3.597
+   159 Q      0.819         7.551 +- 3.597
+   160 N      0.819         7.551 +- 3.597
+   161 W      0.819         7.551 +- 3.597
+   162 N      0.819         7.551 +- 3.597
+   163 T      0.819         7.551 +- 3.597
+   164 K      0.819         7.551 +- 3.597
+   165 H      0.819         7.551 +- 3.597
+   166 G      0.819         7.551 +- 3.597
+   167 S      0.819         7.551 +- 3.597
+   168 G      0.819         7.551 +- 3.597
+   169 A      0.819         7.551 +- 3.597
+   170 L      0.819         7.551 +- 3.597
+   171 R      0.819         7.551 +- 3.597
+   172 E      0.819         7.551 +- 3.597
+   173 L      0.819         7.551 +- 3.597
+   174 T      0.819         7.551 +- 3.597
+   175 R      0.819         7.551 +- 3.597
+   176 E      0.819         7.551 +- 3.597
+   177 L      0.819         7.551 +- 3.597
+   178 N      0.819         7.551 +- 3.597
+   179 G      0.819         7.551 +- 3.597
+   180 G      0.819         7.551 +- 3.597
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.389  0.258  0.162  0.096  0.053  0.026  0.011  0.004  0.001  0.000
+p :   0.096  0.098  0.099  0.100  0.100  0.101  0.101  0.102  0.102  0.102
+q :   0.104  0.102  0.101  0.100  0.100  0.099  0.099  0.098  0.098  0.098
+ws:   0.000  0.001  0.005  0.014  0.030  0.058  0.100  0.164  0.253  0.374
+
+Time used:  0:16

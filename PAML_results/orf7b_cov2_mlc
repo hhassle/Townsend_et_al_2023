@@ -1,0 +1,310 @@
+     11    132
+
+BetaCoV_Wuhan_I_ISL_402119_92   ATG ATT GAA CTT TCA TTA ATT GAC TTC TAT TTG TGC TTT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_Brazil4_2020-03-02_29   ATG ATT GAA CTT TCA TTA ATT GAC TTC TWT TTG TGC TTT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_Guangd1_2020-02-28_32   NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_Guangd0_2020-02-10_50   NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT NNN NNN NNN NNN NNN ??? 
+hCoV-19_Guangd5_2020-02-10_50   ATG ATT GAA CTT TCA TTA ATT GAC TTC TAT TTG TGC NTT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GTC ??? 
+hCoV-19_Guangd3_2020-02-28_32   ATG ATT GAA CTT TCA TTA ATT GAC TNC TAT TTG TGC NTT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_Guangd0_2020-02-28_32   ATG ATT GAA CTT TCA TTA ATT GAC TTC TAT TTG TGC NNT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_Guangd9_2020-02-28_32   ATG ATT GAA CTT TCA TTA ATT GAC TTC TAT TTG TGC NTT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_China_3751_2020-02_90   ATG ATT GAA CTT TCA TTA ATT GAC TTC TAT TTG TG- --C TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+hCoV-19_Brazil5_2020-02-29_31   ATG ATT GAA CTT TCN NNN NNN NNN NNN NNT TTG TGC TTT TTA GCC TTT CTG CTA TTC CTT GTT TTA ATT ATG CTT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+BetaCoV_Wuhan_I_ISL_408978_53   ATG ATT GAA CTT TCA TTA ATT GAC TTC TAT TTG TGN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNT ATT ATC TTT TGG TTC TCA CTT GAA CTG CAA GAT CAT AAT GAA ACT TGT CAC GCC ??? 
+
+
+
+Printing out site pattern counts
+
+
+        11        132  P
+
+BetaCoV_Wuhan_I_ISL_402119_92    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GCC GCC GTT TAT TCA TCA TGC TGG TGT TTA TTA TTA TTC TTC TTC TTG TTT TTT TTT
+hCoV-19_Brazil4_2020-03-02_29    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GCC GCC GTT TWT TCA TCA TGC TGG TGT TTA TTA TTA TTC TTC TTC TTG TTT TTT TTT
+hCoV-19_Guangd1_2020-02-28_32    ??? AAT ACT ATC ATG NNN ATT ATT NNN NNN CAA CAC CAT NNA CTG NNN CTT CTT CTT NNN GAA GAA NNN NNN GAT GCC NNN GTT NNN NNN TCA NNN TGG TGT NNN NNN TTA NNN TTC TTC NNN NNN NNN TTT
+hCoV-19_Guangd0_2020-02-10_50    ??? AAT NNN ATC ATG NNN ATT ATT NNN NNN CAA NNN CAT NTA CTG NNN CTT CTT CTT NNN GAA NNN NNN NNN GAT NNN NNN GTT NNN NNN TCA NNN TGG NNN NNN NNN TTA NNN TTC TTC NNN NNN NNN TTT
+hCoV-19_Guangd5_2020-02-10_50    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GTC GCC GTT TAT TCA TCA TGC TGG TGT TTA TTA TTA TTC TTC TTC TTG NTT TTT TTT
+hCoV-19_Guangd3_2020-02-28_32    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GCC GCC GTT TAT TCA TCA TGC TGG TGT TTA TTA TTA TNC TTC TTC TTG NTT TTT TTT
+hCoV-19_Guangd0_2020-02-28_32    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GCC GCC GTT TAT TCA TCA TGC TGG TGT TTA TTA TTA TTC TTC TTC TTG NNT TTT TTT
+hCoV-19_Guangd9_2020-02-28_32    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GCC GCC GTT TAT TCA TCA TGC TGG TGT TTA TTA TTA TTC TTC TTC TTG NTT TTT TTT
+hCoV-19_China_3751_2020-02_90    ??? AAT ACT ATC ATG ATG ATT ATT ATT ATT CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA GAC GAT GCC GCC GTT TAT TCA TCA TG- TGG TGT TTA TTA TTA TTC TTC TTC TTG --C TTT TTT
+hCoV-19_Brazil5_2020-02-29_31    ??? AAT ACT ATC ATG ATG ATT ATT ATT NNN CAA CAC CAT CTA CTG CTG CTT CTT CTT CTT GAA GAA GAA NNN GAT GCC GCC GTT NNT TCN TCA TGC TGG TGT NNN TTA TTA NNN TTC TTC TTG TTT TTT TTT
+BetaCoV_Wuhan_I_ISL_408978_53    ??? AAT ACT ATC NNN ATG ATT NNN ATT ATT CAA CAC CAT NNN CTG NNN CTT NNN NNT CTT GAA GAA GAA GAC GAT GCC NNN NNN TAT TCA TCA TGN TGG TGT TTA NNN NNN TTC NNN TTC TTG NNN NNN TTT
+
+
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+
+CODONML (in paml version 4.8a, August 2014)  /Users/stephengaughran/Downloads/COVID_paml/renamed_orf7b/cov2_orf7b_aln_rename.fasta
+Model: One dN/dS ratio for branches, 
+Codon frequency model: Fequal
+Site-class models:  beta&w>1 (6 categories)
+ns =  11  ls =  44
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   3   3   1   1   2   2 | Ser TCT   0   0   0   0   0   0 | Tyr TAT   1   0   0   0   1   1 | Cys TGT   1   1   1   0   1   1
+    TTC   3   3   2   2   3   2 |     TCC   0   0   0   0   0   0 |     TAC   0   0   0   0   0   0 |     TGC   1   1   0   0   1   1
+Leu TTA   3   3   1   1   3   3 |     TCA   2   2   1   1   2   2 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   0   0   1   1 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   4   4   3   3   4   4 | Pro CCT   0   0   0   0   0   0 | His CAT   1   1   1   1   1   1 | Arg CGT   0   0   0   0   0   0
+    CTC   0   0   0   0   0   0 |     CCC   0   0   0   0   0   0 |     CAC   1   1   1   0   1   1 |     CGC   0   0   0   0   0   0
+    CTA   1   1   0   0   1   1 |     CCA   0   0   0   0   0   0 | Gln CAA   1   1   1   1   1   1 |     CGA   0   0   0   0   0   0
+    CTG   2   2   1   1   2   2 |     CCG   0   0   0   0   0   0 |     CAG   0   0   0   0   0   0 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   4   4   2   2   4   4 | Thr ACT   1   1   1   0   1   1 | Asn AAT   1   1   1   1   1   1 | Ser AGT   0   0   0   0   0   0
+    ATC   1   1   1   1   1   1 |     ACC   0   0   0   0   0   0 |     AAC   0   0   0   0   0   0 |     AGC   0   0   0   0   0   0
+    ATA   0   0   0   0   0   0 |     ACA   0   0   0   0   0   0 | Lys AAA   0   0   0   0   0   0 | Arg AGA   0   0   0   0   0   0
+Met ATG   2   2   1   1   2   2 |     ACG   0   0   0   0   0   0 |     AAG   0   0   0   0   0   0 |     AGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   1   1   1   1   1 | Ala GCT   0   0   0   0   0   0 | Asp GAT   1   1   1   1   1   1 | Gly GGT   0   0   0   0   0   0
+    GTC   0   0   0   0   1   0 |     GCC   2   2   1   0   1   2 |     GAC   1   1   0   0   1   1 |     GGC   0   0   0   0   0   0
+    GTA   0   0   0   0   0   0 |     GCA   0   0   0   0   0   0 | Glu GAA   3   3   2   1   3   3 |     GGA   0   0   0   0   0   0
+    GTG   0   0   0   0   0   0 |     GCG   0   0   0   0   0   0 |     GAG   0   0   0   0   0   0 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   2   3   1 | Ser TCT   0   0   0   0   0 | Tyr TAT   1   1   1   0   1 | Cys TGT   1   1   1   1   1
+    TTC   3   3   3   2   2 |     TCC   0   0   0   0   0 |     TAC   0   0   0   0   0 |     TGC   1   1   0   1   0
+Leu TTA   3   3   3   2   1 |     TCA   2   2   2   1   2 | *** TAA   0   0   0   0   0 | *** TGA   0   0   0   0   0
+    TTG   1   1   1   1   1 |     TCG   0   0   0   0   0 |     TAG   0   0   0   0   0 | Trp TGG   1   1   1   1   1
+----------------------------------------------------------------------------------------------------------------------
+Leu CTT   4   4   4   4   2 | Pro CCT   0   0   0   0   0 | His CAT   1   1   1   1   1 | Arg CGT   0   0   0   0   0
+    CTC   0   0   0   0   0 |     CCC   0   0   0   0   0 |     CAC   1   1   1   1   1 |     CGC   0   0   0   0   0
+    CTA   1   1   1   1   0 |     CCA   0   0   0   0   0 | Gln CAA   1   1   1   1   1 |     CGA   0   0   0   0   0
+    CTG   2   2   2   2   1 |     CCG   0   0   0   0   0 |     CAG   0   0   0   0   0 |     CGG   0   0   0   0   0
+----------------------------------------------------------------------------------------------------------------------
+Ile ATT   4   4   4   3   3 | Thr ACT   1   1   1   1   1 | Asn AAT   1   1   1   1   1 | Ser AGT   0   0   0   0   0
+    ATC   1   1   1   1   1 |     ACC   0   0   0   0   0 |     AAC   0   0   0   0   0 |     AGC   0   0   0   0   0
+    ATA   0   0   0   0   0 |     ACA   0   0   0   0   0 | Lys AAA   0   0   0   0   0 | Arg AGA   0   0   0   0   0
+Met ATG   2   2   2   2   1 |     ACG   0   0   0   0   0 |     AAG   0   0   0   0   0 |     AGG   0   0   0   0   0
+----------------------------------------------------------------------------------------------------------------------
+Val GTT   1   1   1   1   0 | Ala GCT   0   0   0   0   0 | Asp GAT   1   1   1   1   1 | Gly GGT   0   0   0   0   0
+    GTC   0   0   0   0   0 |     GCC   2   2   2   2   1 |     GAC   1   1   1   0   1 |     GGC   0   0   0   0   0
+    GTA   0   0   0   0   0 |     GCA   0   0   0   0   0 | Glu GAA   3   3   3   3   3 |     GGA   0   0   0   0   0
+    GTG   0   0   0   0   0 |     GCG   0   0   0   0   0 |     GAG   0   0   0   0   0 |     GGG   0   0   0   0   0
+----------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: BetaCoV_Wuhan_I_ISL_402119_92
+position  1:    T:0.37209    C:0.23256    A:0.20930    G:0.18605
+position  2:    T:0.58140    C:0.11628    A:0.23256    G:0.06977
+position  3:    T:0.41860    C:0.20930    A:0.23256    G:0.13953
+Average         T:0.45736    C:0.18605    A:0.22481    G:0.13178
+
+#2: hCoV-19_Brazil4_2020-03-02_29
+position  1:    T:0.35714    C:0.23810    A:0.21429    G:0.19048
+position  2:    T:0.59524    C:0.11905    A:0.21429    G:0.07143
+position  3:    T:0.40476    C:0.21429    A:0.23810    G:0.14286
+Average         T:0.45238    C:0.19048    A:0.22222    G:0.13492
+
+#3: hCoV-19_Guangd1_2020-02-28_32
+position  1:    T:0.28000    C:0.28000    A:0.24000    G:0.20000
+position  2:    T:0.52000    C:0.12000    A:0.28000    G:0.08000
+position  3:    T:0.48000    C:0.20000    A:0.20000    G:0.12000
+Average         T:0.42667    C:0.20000    A:0.24000    G:0.13333
+
+#4: hCoV-19_Guangd0_2020-02-10_50
+position  1:    T:0.30000    C:0.30000    A:0.25000    G:0.15000
+position  2:    T:0.65000    C:0.05000    A:0.25000    G:0.05000
+position  3:    T:0.50000    C:0.15000    A:0.20000    G:0.15000
+Average         T:0.48333    C:0.16667    A:0.23333    G:0.11667
+
+#5: hCoV-19_Guangd5_2020-02-10_50
+position  1:    T:0.35714    C:0.23810    A:0.21429    G:0.19048
+position  2:    T:0.59524    C:0.09524    A:0.23810    G:0.07143
+position  3:    T:0.40476    C:0.21429    A:0.23810    G:0.14286
+Average         T:0.45238    C:0.18254    A:0.23016    G:0.13492
+
+#6: hCoV-19_Guangd3_2020-02-28_32
+position  1:    T:0.34146    C:0.24390    A:0.21951    G:0.19512
+position  2:    T:0.56098    C:0.12195    A:0.24390    G:0.07317
+position  3:    T:0.41463    C:0.19512    A:0.24390    G:0.14634
+Average         T:0.43902    C:0.18699    A:0.23577    G:0.13821
+
+#7: hCoV-19_Guangd0_2020-02-28_32
+position  1:    T:0.35714    C:0.23810    A:0.21429    G:0.19048
+position  2:    T:0.57143    C:0.11905    A:0.23810    G:0.07143
+position  3:    T:0.40476    C:0.21429    A:0.23810    G:0.14286
+Average         T:0.44444    C:0.19048    A:0.23016    G:0.13492
+
+#8: hCoV-19_Guangd9_2020-02-28_32
+position  1:    T:0.35714    C:0.23810    A:0.21429    G:0.19048
+position  2:    T:0.57143    C:0.11905    A:0.23810    G:0.07143
+position  3:    T:0.40476    C:0.21429    A:0.23810    G:0.14286
+Average         T:0.44444    C:0.19048    A:0.23016    G:0.13492
+
+#9: hCoV-19_China_3751_2020-02_90
+position  1:    T:0.34146    C:0.24390    A:0.21951    G:0.19512
+position  2:    T:0.58537    C:0.12195    A:0.24390    G:0.04878
+position  3:    T:0.41463    C:0.19512    A:0.24390    G:0.14634
+Average         T:0.44715    C:0.18699    A:0.23577    G:0.13008
+
+#10: hCoV-19_Brazil5_2020-02-29_31
+position  1:    T:0.32432    C:0.27027    A:0.21622    G:0.18919
+position  2:    T:0.59459    C:0.10811    A:0.21622    G:0.08108
+position  3:    T:0.43243    C:0.18919    A:0.21622    G:0.16216
+Average         T:0.45045    C:0.18919    A:0.21622    G:0.14414
+
+#11: BetaCoV_Wuhan_I_ISL_408978_53
+position  1:    T:0.34483    C:0.20690    A:0.24138    G:0.20690
+position  2:    T:0.44828    C:0.13793    A:0.34483    G:0.06897
+position  3:    T:0.41379    C:0.20690    A:0.24138    G:0.13793
+Average         T:0.40230    C:0.18391    A:0.27586    G:0.13793
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      22 | Ser S TCT       0 | Tyr Y TAT       7 | Cys C TGT      10
+      TTC      28 |       TCC       0 |       TAC       0 |       TGC       7
+Leu L TTA      26 |       TCA      19 | *** * TAA       0 | *** * TGA       0
+      TTG       9 |       TCG       0 |       TAG       0 | Trp W TGG      11
+------------------------------------------------------------------------------
+Leu L CTT      40 | Pro P CCT       0 | His H CAT      11 | Arg R CGT       0
+      CTC       0 |       CCC       0 |       CAC      10 |       CGC       0
+      CTA       8 |       CCA       0 | Gln Q CAA      11 |       CGA       0
+      CTG      19 |       CCG       0 |       CAG       0 |       CGG       0
+------------------------------------------------------------------------------
+Ile I ATT      38 | Thr T ACT      10 | Asn N AAT      11 | Ser S AGT       0
+      ATC      11 |       ACC       0 |       AAC       0 |       AGC       0
+      ATA       0 |       ACA       0 | Lys K AAA       0 | Arg R AGA       0
+Met M ATG      19 |       ACG       0 |       AAG       0 |       AGG       0
+------------------------------------------------------------------------------
+Val V GTT      10 | Ala A GCT       0 | Asp D GAT      11 | Gly G GGT       0
+      GTC       1 |       GCC      17 |       GAC       8 |       GGC       0
+      GTA       0 |       GCA       0 | Glu E GAA      30 |       GGA       0
+      GTG       0 |       GCG       0 |       GAG       0 |       GGG       0
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.34406    C:0.24505    A:0.22030    G:0.19059
+position  2:    T:0.57178    C:0.11386    A:0.24505    G:0.06931
+position  3:    T:0.42079    C:0.20297    A:0.23267    G:0.14356
+Average         T:0.44554    C:0.18729    A:0.23267    G:0.13449
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.00000000  0.00000000
+  0.01639344  0.01639344  0.00000000  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+BetaCoV_Wuhan_I_ISL_402119_92
+hCoV-19_Brazil4_2020-03-02_29-1.0000 (0.0000 0.0000)
+hCoV-19_Guangd1_2020-02-28_32-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+hCoV-19_Guangd0_2020-02-10_50-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+hCoV-19_Guangd5_2020-02-10_50-1.0000 (0.0102 0.0000)-1.0000 (0.0105 0.0000)-1.0000 (0.0170 0.0000)-1.0000 (0.0000 0.0000)
+hCoV-19_Guangd3_2020-02-28_32-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0105 0.0000)
+hCoV-19_Guangd0_2020-02-28_32-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0102 0.0000)-1.0000 (0.0000 0.0000)
+hCoV-19_Guangd9_2020-02-28_32-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0102 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+hCoV-19_China_3751_2020-02_90-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0105 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+hCoV-19_Brazil5_2020-02-29_31-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0119 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+BetaCoV_Wuhan_I_ISL_408978_53-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0144 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+
+
+TREE #  1:  (1, 2, ((((((3, 9), 11), (4, 5)), 7), 8), (6, 10)));   MP score: -1
+lnL(ntime: 19  np: 24):   -188.340472      +0.000000
+  12..1    12..2    12..13   13..14   14..15   15..16   16..17   17..18   18..3    18..9    17..11   16..19   19..4    19..5    15..7    14..8    13..20   20..6    20..10 
+ 0.000004 0.000004 0.000004 0.000004 0.000004 0.000004 0.000004 0.023595 0.000004 0.000004 0.000004 0.000004 0.000004 0.023194 0.000004 0.000004 0.000004 0.000004 0.000004 999.000000 0.999990 89.786939 60.802593 1.384727
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   0.04686
+
+(1: 0.000004, 2: 0.000004, ((((((3: 0.000004, 9: 0.000004): 0.023595, 11: 0.000004): 0.000004, (4: 0.000004, 5: 0.023194): 0.000004): 0.000004, 7: 0.000004): 0.000004, 8: 0.000004): 0.000004, (6: 0.000004, 10: 0.000004): 0.000004): 0.000004);
+
+(BetaCoV_Wuhan_I_ISL_402119_92: 0.000004, hCoV-19_Brazil4_2020-03-02_29: 0.000004, ((((((hCoV-19_Guangd1_2020-02-28_32: 0.000004, hCoV-19_China_3751_2020-02_90: 0.000004): 0.023595, BetaCoV_Wuhan_I_ISL_408978_53: 0.000004): 0.000004, (hCoV-19_Guangd0_2020-02-10_50: 0.000004, hCoV-19_Guangd5_2020-02-10_50: 0.023194): 0.000004): 0.000004, hCoV-19_Guangd0_2020-02-28_32: 0.000004): 0.000004, hCoV-19_Guangd9_2020-02-28_32: 0.000004): 0.000004, (hCoV-19_Guangd3_2020-02-28_32: 0.000004, hCoV-19_Brazil5_2020-02-29_31: 0.000004): 0.000004): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) = 999.00000
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.99999  p =  89.78694 q =  60.80259
+ (p1 =   0.00001) w =   1.38473
+
+
+dN/dS (w) for site classes (K=6)
+
+p:   0.20000  0.20000  0.20000  0.20000  0.20000  0.00001
+w:   0.54478  0.57556  0.59666  0.61753  0.64714  1.38473
+(note that p[5] is zero)
+
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  12..1       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  12..2       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  12..13      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  13..14      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  14..15      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  15..16      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  16..17      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  17..18      0.024     86.1     45.9   0.5963   0.0064   0.0107    0.5    0.5
+  18..3       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  18..9       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  17..11      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  16..19      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  19..4       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  19..5       0.023     86.1     45.9   0.5963   0.0063   0.0105    0.5    0.5
+  15..7       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  14..8       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  13..20      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  20..6       0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+  20..10      0.000     86.1     45.9   0.5963   0.0000   0.0000    0.0    0.0
+
+
+Naive Empirical Bayes (NEB) analysis
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: BetaCoV_Wuhan_I_ISL_402119_92)
+
+            Pr(w>1)     post mean +- SE for w
+
+    43 A      0.637         2.999 +- 2.788
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.026  0.031  0.038  0.047  0.059  0.076  0.103  0.145  0.206  0.269
+p :   0.109  0.107  0.104  0.102  0.100  0.098  0.097  0.095  0.094  0.093
+q :   0.086  0.092  0.096  0.099  0.101  0.103  0.104  0.105  0.106  0.107
+ws:   0.245  0.174  0.128  0.099  0.081  0.069  0.060  0.053  0.048  0.044
+
+Time used:  0:58

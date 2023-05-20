@@ -1,0 +1,492 @@
+     24    369
+
+AY278491_2_SARete_genome_6192   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY559084_1_SARete_genome_5847   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY338175_1_SARete_genome_6109   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT TTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY278554_2_SARete_genome_6193   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY394991_1_SARete_genome_5906   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TTT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY595412_1_SARete_genome_5754   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT MAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY345988_1_SARete_genome_5967   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA ACT AAA CGA ACA AAT ??? 
+AY283795_1_SARete_genome_6171   A-- --- -TG CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY559092_1_SARete_genome_5847   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TT- AAT AAA CGA ACA AAT ??? 
+AY357075_1_SARete_genome_5979   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- --- AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY321118_1_SARete_genome_6132   ATG AAA CTT CTC ATT GTT TTG ACT TGT A-- TCT CTA TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY283797_1_SARete_genome_6171   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT T-- --- TGC AGT TGC ATA TGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TG- --- --- --- --- --- --- --- --- --- -TA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY545917_1_SARete_genome_5509   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG A-- ATA AGG TAC AAA ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY394981_1_SARial_genome_5906   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY304488_1_SARete_genome_6052   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATG GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY278489_2_SARete_genome_6189   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA TTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY304486_1_SARete_genome_6052   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAC ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA ACT AAA CGA ACA AAT ??? 
+AY515512_1_SARete_genome_5568   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAA ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY613947_1_SARete_genome_5541   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG TTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAA ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY545914_1_SARete_genome_5509   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAA ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA ACT AAA CGA ACA AAT ??? 
+AY568539_1_SARete_genome_5510   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG TTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAA ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA ACT AAA CGA ACA AAT ??? 
+AY394995_1_SARete_genome_5906   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGC GCA TCT AAT AAA CCT CAT GTG CTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAC ACT ACG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT ATA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT ATA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+AY545916_1_SARete_genome_5509   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AAT AAA CCT CAT GTG TTT GAA GAT CCT TGT CCT ACT GGT TAC CAA CCT GAA TGG AAT ATA AGG TAC AAA ACT AGG GGT AAT ACT TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT -TA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA ACT AAA CGA ACA AAT ??? 
+AY394982_1_SARial_genome_5906   ATG AAA CTT CTC ATT GTT TTG ACT TGT ATT TCT CTA TGC AGT TGC ATA CGC ACT GTA GTA CAG CGC TGT GCA TCT AA- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TAT AGC ACT GCT TGG CTT TGT GCT CTA GGA AAG GTT TTA CCT TTT CAT AGA TGG CAC ACT ATG GTT CAA ACA TGC ACA CCT AAT GTT ACT ATC AAC TGT ??? GAT CCA GCT GGT GGT GCG CTT ATA GCT AGG TGT TGG TAC CTT CAT GAA GGT CAC CAA ACT GCT GCA TTT AGA GAC GTA CTT GTT GTT TTA AAT AAA CGA ACA AAT ??? 
+
+
+
+Printing out site pattern counts
+
+
+        24        249  P
+
+AY278491_2_SARete_genome_6192    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY559084_1_SARete_genome_5847    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY338175_1_SARete_genome_6109    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA TTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY278554_2_SARete_genome_6193    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY394991_1_SARete_genome_5906    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TTT TG- CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY595412_1_SARete_genome_5754    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT MAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY345988_1_SARete_genome_5967    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT ACT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY283795_1_SARete_genome_6171    --- --- --- --- --- --- --- --- -TA ??? --- AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC A-- ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC -TG CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY559092_1_SARete_genome_5847    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TT- TTA TTG TTT
+AY357075_1_SARete_genome_5979    --- --- --- --- --- --- --- --- --- ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY321118_1_SARete_genome_6132    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG A-- ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY283797_1_SARete_genome_6171    --- --- --- --- --- --- --- --- -TA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA --- CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT T-- TG- TGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY545917_1_SARete_genome_5509    A-- ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAA AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY394981_1_SARial_genome_5906    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY304488_1_SARete_genome_6052    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATG ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY278489_2_SARete_genome_6189    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT TTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY304486_1_SARete_genome_6052    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT ACT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY515512_1_SARete_genome_5568    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAA AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY613947_1_SARete_genome_5541    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAA AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT TTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY545914_1_SARete_genome_5509    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAA AAC AAG AAT AAT AAT ACT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY568539_1_SARete_genome_5510    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAA AAC AAG AAT AAT AAT ACT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT TTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY394995_1_SARete_genome_5906    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAC AAC AAG AAT AAT AAT AAT AAT ACA ACT ACT ATA AGC ACG AGG AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT CTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGC TGT TTA TTA TTG TTT
+AY545916_1_SARete_genome_5509    AAT ACT CAA CCT GAA GGT TAC TGG ATA ??? AAA AAA AAA AAA AAC AAG AAT AAT AAT ACT AAT ACA ACT ACT AGA AGC AGG AGG AGG AGT ATA -TA ATC ATG ATG ATT ATT CAA CAC CAG CAT CAT CCA CCT CCT CGA CGC CTA CTA CTC CTT CTT TTT CTT GAA GAA GAC GAT GAT GCA GCG GCT GGA GGT GGT GTA GTG GTT TAC TAC TAT TCT TCT TGT CGC TGC TGG TGT TGT TTA TTA TTG TTT
+AY394982_1_SARial_genome_5906    --- --- --- --- --- --- --- --- --- ??? AAA --- AAA --- AAC AAG --- AA- AAT AAT AAT ACA --- ACT AGA AGC --- --- AGG AGT ATA ATA ATC ATG ATG ATT ATT CAA CAC CAG --- CAT CCA --- CCT CGA CGC CTA CTA CTC CTT CTT --- CTT --- GAA GAC --- GAT GCA GCG GCT GGA --- GGT GTA --- GTT --- TAC TAT TCT TCT --- CGC TGC TGG TGT TGT TTA TTA TTG TTT
+
+
+
+    1    1    1    2    1    1    1    1    1    2    1    1    1    1    1
+    1    1    1    1    1    1    3    2    6    2    1    1    1    1    1
+    1    1    1    1    1    1    1    2    2    1    1    2    1    2    2
+    1    1    1    1    1    1    3    1    1    1    1    1    1    1    2
+    1    5    1    1    3    3    1    6    1    1    1    1    1    1    1
+    3    3    1    4    1    1    1    2
+
+CODONML (in paml version 4.9j, February 2020)  /home/sjg73/project/COVID_paml/renamed_orf8/cov1_orf8_aln_rename.fasta
+Model: One dN/dS ratio, 
+Codon frequency model: Fequal
+Site-class models:  beta&w>1 (6 categories)
+ns =  24  ls = 123
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   2   2   3   2 | Ser TCT   2   2   2   2   1   2 | Tyr TAT   1   1   1   1   1   1 | Cys TGT   5   5   5   5   5   5
+    TTC   0   0   0   0   0   0 |     TCC   0   0   0   0   0   0 |     TAC   2   2   2   2   2   2 |     TGC   4   4   4   3   3   3
+Leu TTA   2   2   3   2   2   2 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   1   1   1   1 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   6   6   6   6   6   6 | Pro CCT   4   4   4   4   4   4 | His CAT   3   3   3   3   3   3 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   1   1   1   1 |     CCC   0   0   0   0   0   0 |     CAC   2   2   2   2   2   2 |     CGC   1   1   1   2   2   2
+    CTA   2   2   1   2   2   2 |     CCA   1   1   1   1   1   1 | Gln CAA   2   2   2   2   2   2 |     CGA   1   1   1   1   1   1
+    CTG   0   0   0   0   0   0 |     CCG   0   0   0   0   0   0 |     CAG   1   1   1   1   1   1 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   2   2   2   2   2 | Thr ACT   8   8   8   8   8   8 | Asn AAT   5   5   5   5   5   4 | Ser AGT   1   1   1   1   1   1
+    ATC   1   1   1   1   1   1 |     ACC   0   0   0   0   0   0 |     AAC   2   2   2   2   2   2 |     AGC   1   1   1   1   1   1
+    ATA   2   2   2   2   2   2 |     ACA   3   3   3   3   3   3 | Lys AAA   3   3   3   3   3   3 | Arg AGA   2   2   2   2   2   2
+Met ATG   2   2   2   2   2   2 |     ACG   0   0   0   0   0   0 |     AAG   1   1   1   1   1   1 |     AGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   6   6   6   6   6   6 | Ala GCT   5   5   5   5   5   5 | Asp GAT   2   2   2   2   2   2 | Gly GGT   4   4   4   4   4   4
+    GTC   0   0   0   0   0   0 |     GCC   0   0   0   0   0   0 |     GAC   1   1   1   1   1   1 |     GGC   0   0   0   0   0   0
+    GTA   3   3   3   3   3   3 |     GCA   2   2   2   2   2   2 | Glu GAA   2   2   2   2   2   2 |     GGA   1   1   1   1   1   1
+    GTG   1   1   1   1   1   1 |     GCG   1   1   1   1   1   1 |     GAG   0   0   0   0   0   0 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   2   2   2   2 | Ser TCT   2   2   2   2   2   1 | Tyr TAT   1   1   1   1   1   1 | Cys TGT   5   5   5   5   5   5
+    TTC   0   0   0   0   0   0 |     TCC   0   0   0   0   0   0 |     TAC   2   2   2   2   2   2 |     TGC   4   4   4   4   4   4
+Leu TTA   2   2   1   2   2   2 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   1   1   1   1 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   6   5   6   6   6   6 | Pro CCT   4   4   4   4   4   4 | His CAT   3   3   3   3   3   3 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   1   1   1   1 |     CCC   0   0   0   0   0   0 |     CAC   2   2   2   2   2   2 |     CGC   1   1   1   1   1   1
+    CTA   2   2   2   2   2   1 |     CCA   1   1   1   1   1   1 | Gln CAA   2   2   2   2   2   2 |     CGA   1   1   1   1   1   1
+    CTG   0   0   0   0   0   0 |     CCG   0   0   0   0   0   0 |     CAG   1   1   1   1   1   1 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   2   2   2   1   2 | Thr ACT   9   8   8   8   8   8 | Asn AAT   4   5   5   5   5   5 | Ser AGT   1   1   1   1   1   1
+    ATC   1   1   1   1   1   1 |     ACC   0   0   0   0   0   0 |     AAC   2   2   2   2   2   2 |     AGC   1   1   1   1   1   1
+    ATA   2   2   2   2   2   2 |     ACA   3   3   3   3   3   3 | Lys AAA   3   2   3   3   3   3 | Arg AGA   2   2   2   2   2   2
+Met ATG   2   1   2   2   2   2 |     ACG   0   0   0   0   0   0 |     AAG   1   1   1   1   1   1 |     AGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   6   6   6   6   6   6 | Ala GCT   5   5   5   5   5   5 | Asp GAT   2   2   2   2   2   2 | Gly GGT   4   4   4   4   4   4
+    GTC   0   0   0   0   0   0 |     GCC   0   0   0   0   0   0 |     GAC   1   1   1   1   1   1 |     GGC   0   0   0   0   0   0
+    GTA   3   3   3   3   3   3 |     GCA   2   2   2   2   2   2 | Glu GAA   2   2   2   2   2   2 |     GGA   1   1   1   1   1   1
+    GTG   1   1   1   1   1   1 |     GCG   1   1   1   1   1   1 |     GAG   0   0   0   0   0   0 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   2   3   2   2 | Ser TCT   2   2   2   2   2   2 | Tyr TAT   1   1   1   1   1   1 | Cys TGT   6   6   6   6   6   6
+    TTC   0   0   0   0   0   0 |     TCC   0   0   0   0   0   0 |     TAC   3   3   3   3   3   3 |     TGC   3   3   3   3   3   3
+Leu TTA   2   2   2   2   2   2 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   1   1   1   1 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   4   4   4   4   4   4
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   6   6   6   5   6   6 | Pro CCT   6   6   6   6   6   6 | His CAT   3   3   3   3   3   3 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   1   1   1   1 |     CCC   0   0   0   0   0   0 |     CAC   2   2   2   2   2   2 |     CGC   2   2   2   2   2   2
+    CTA   2   2   2   2   2   2 |     CCA   1   1   1   1   1   1 | Gln CAA   3   3   3   3   3   3 |     CGA   1   1   1   1   1   1
+    CTG   0   0   0   0   0   0 |     CCG   0   0   0   0   0   0 |     CAG   1   1   1   1   1   1 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   2   2   2   2   2 | Thr ACT   9   9   9   9  10   9 | Asn AAT   5   6   6   6   5   6 | Ser AGT   1   1   1   1   1   1
+    ATC   1   1   1   1   1   1 |     ACC   0   0   0   0   0   0 |     AAC   1   2   2   2   2   1 |     AGC   1   1   1   1   1   1
+    ATA   3   3   2   3   3   3 |     ACA   3   3   3   3   3   3 | Lys AAA   4   3   3   3   3   4 | Arg AGA   2   2   2   2   2   2
+Met ATG   2   2   3   2   2   2 |     ACG   0   0   0   0   0   0 |     AAG   1   1   1   1   1   1 |     AGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   6   6   6   6   6   6 | Ala GCT   5   5   5   5   5   5 | Asp GAT   2   2   2   2   2   2 | Gly GGT   5   5   5   5   5   5
+    GTC   0   0   0   0   0   0 |     GCC   0   0   0   0   0   0 |     GAC   1   1   1   1   1   1 |     GGC   0   0   0   0   0   0
+    GTA   3   3   3   3   3   3 |     GCA   2   2   2   2   2   2 | Glu GAA   3   3   3   3   3   3 |     GGA   1   1   1   1   1   1
+    GTG   1   1   1   1   1   1 |     GCG   1   1   1   1   1   1 |     GAG   0   0   0   0   0   0 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   3   2   3   2   3   2 | Ser TCT   2   2   2   2   2   2 | Tyr TAT   1   1   1   1   1   1 | Cys TGT   6   6   6   5   6   5
+    TTC   0   0   0   0   0   0 |     TCC   0   0   0   0   0   0 |     TAC   3   3   3   3   3   1 |     TGC   3   3   3   4   3   3
+Leu TTA   2   2   2   2   2   2 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   1   1   1   1 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   4   4   4   4   4   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   5   6   5   6   5   5 | Pro CCT   6   6   6   6   6   2 | His CAT   3   3   3   3   3   2 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   1   1   1   1 |     CCC   0   0   0   0   0   0 |     CAC   2   2   2   2   2   2 |     CGC   2   2   2   2   2   2
+    CTA   2   2   2   2   2   2 |     CCA   1   1   1   1   1   1 | Gln CAA   3   3   3   3   3   2 |     CGA   1   1   1   1   1   1
+    CTG   0   0   0   0   0   0 |     CCG   0   0   0   0   0   0 |     CAG   1   1   1   1   1   1 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   2   2   2   2   2 | Thr ACT   9  10  10   9  10   6 | Asn AAT   6   5   5   6   5   3 | Ser AGT   1   1   1   1   1   1
+    ATC   1   1   1   1   1   1 |     ACC   0   0   0   0   0   0 |     AAC   1   1   1   2   1   1 |     AGC   1   1   1   1   1   1
+    ATA   3   3   3   5   2   2 |     ACA   3   3   3   3   3   3 | Lys AAA   4   4   4   3   4   2 | Arg AGA   2   2   2   0   2   2
+Met ATG   2   2   2   2   2   2 |     ACG   0   0   0   1   0   0 |     AAG   1   1   1   1   1   1 |     AGG   3   3   3   2   3   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   6   6   6   6   6   6 | Ala GCT   5   5   5   5   5   5 | Asp GAT   2   2   2   2   2   1 | Gly GGT   5   5   5   5   5   3
+    GTC   0   0   0   0   0   0 |     GCC   0   0   0   0   0   0 |     GAC   1   1   1   1   1   1 |     GGC   0   0   0   0   0   0
+    GTA   3   3   3   3   3   3 |     GCA   2   2   2   2   2   2 | Glu GAA   3   3   3   3   3   1 |     GGA   1   1   1   1   1   1
+    GTG   1   1   1   1   1   0 |     GCG   1   1   1   1   1   1 |     GAG   0   0   0   0   0   0 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: AY278491_2_SARete_genome_6192
+position  1:    T:0.20000    C:0.21818    A:0.32727    G:0.25455
+position  2:    T:0.28182    C:0.23636    A:0.24545    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.33030    C:0.19697    A:0.26970    G:0.20303
+
+#2: AY559084_1_SARete_genome_5847
+position  1:    T:0.20000    C:0.21818    A:0.32727    G:0.25455
+position  2:    T:0.28182    C:0.23636    A:0.24545    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.33030    C:0.19697    A:0.26970    G:0.20303
+
+#3: AY338175_1_SARete_genome_6109
+position  1:    T:0.20909    C:0.20909    A:0.32727    G:0.25455
+position  2:    T:0.28182    C:0.23636    A:0.24545    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.33333    C:0.19394    A:0.26970    G:0.20303
+
+#4: AY278554_2_SARete_genome_6193
+position  1:    T:0.19091    C:0.22727    A:0.32727    G:0.25455
+position  2:    T:0.28182    C:0.23636    A:0.24545    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.32727    C:0.20000    A:0.26970    G:0.20303
+
+#5: AY394991_1_SARete_genome_5906
+position  1:    T:0.19091    C:0.22727    A:0.32727    G:0.25455
+position  2:    T:0.29091    C:0.22727    A:0.24545    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.33030    C:0.19697    A:0.26970    G:0.20303
+
+#6: AY595412_1_SARete_genome_5754
+position  1:    T:0.19266    C:0.22936    A:0.32110    G:0.25688
+position  2:    T:0.28440    C:0.23853    A:0.23853    G:0.23853
+position  3:    T:0.50459    C:0.13761    A:0.23853    G:0.11927
+Average         T:0.32722    C:0.20183    A:0.26606    G:0.20489
+
+#7: AY345988_1_SARete_genome_5967
+position  1:    T:0.20000    C:0.21818    A:0.32727    G:0.25455
+position  2:    T:0.28182    C:0.24545    A:0.23636    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.33030    C:0.20000    A:0.26667    G:0.20303
+
+#8: AY283795_1_SARete_genome_6171
+position  1:    T:0.20561    C:0.21495    A:0.31776    G:0.26168
+position  2:    T:0.27103    C:0.24299    A:0.24299    G:0.24299
+position  3:    T:0.51402    C:0.14019    A:0.23364    G:0.11215
+Average         T:0.33022    C:0.19938    A:0.26480    G:0.20561
+
+#9: AY559092_1_SARete_genome_5847
+position  1:    T:0.19266    C:0.22018    A:0.33028    G:0.25688
+position  2:    T:0.27523    C:0.23853    A:0.24771    G:0.23853
+position  3:    T:0.51376    C:0.13761    A:0.22936    G:0.11927
+Average         T:0.32722    C:0.19878    A:0.26911    G:0.20489
+
+#10: AY357075_1_SARete_genome_5979
+position  1:    T:0.20000    C:0.21818    A:0.32727    G:0.25455
+position  2:    T:0.28182    C:0.23636    A:0.24545    G:0.23636
+position  3:    T:0.50909    C:0.13636    A:0.23636    G:0.11818
+Average         T:0.33030    C:0.19697    A:0.26970    G:0.20303
+
+#11: AY321118_1_SARete_genome_6132
+position  1:    T:0.20183    C:0.22018    A:0.32110    G:0.25688
+position  2:    T:0.27523    C:0.23853    A:0.24771    G:0.23853
+position  3:    T:0.50459    C:0.13761    A:0.23853    G:0.11927
+Average         T:0.32722    C:0.19878    A:0.26911    G:0.20489
+
+#12: AY283797_1_SARete_genome_6171
+position  1:    T:0.19444    C:0.21296    A:0.33333    G:0.25926
+position  2:    T:0.27778    C:0.23148    A:0.25000    G:0.24074
+position  3:    T:0.50926    C:0.13889    A:0.23148    G:0.12037
+Average         T:0.32716    C:0.19444    A:0.27160    G:0.20679
+
+#13: AY545917_1_SARete_genome_5509
+position  1:    T:0.20000    C:0.23333    A:0.31667    G:0.25000
+position  2:    T:0.26667    C:0.24167    A:0.25000    G:0.24167
+position  3:    T:0.50833    C:0.12500    A:0.25000    G:0.11667
+Average         T:0.32500    C:0.20000    A:0.27222    G:0.20278
+
+#14: AY394981_1_SARial_genome_5906
+position  1:    T:0.19835    C:0.23140    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.23967    A:0.25620    G:0.23967
+position  3:    T:0.51240    C:0.13223    A:0.23967    G:0.11570
+Average         T:0.32507    C:0.20110    A:0.27273    G:0.20110
+
+#15: AY304488_1_SARete_genome_6052
+position  1:    T:0.19835    C:0.23140    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.23967    A:0.25620    G:0.23967
+position  3:    T:0.51240    C:0.13223    A:0.23140    G:0.12397
+Average         T:0.32507    C:0.20110    A:0.26997    G:0.20386
+
+#16: AY278489_2_SARete_genome_6189
+position  1:    T:0.20661    C:0.22314    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.23967    A:0.25620    G:0.23967
+position  3:    T:0.51240    C:0.13223    A:0.23967    G:0.11570
+Average         T:0.32782    C:0.19835    A:0.27273    G:0.20110
+
+#17: AY304486_1_SARete_genome_6052
+position  1:    T:0.19835    C:0.23140    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.24793    A:0.24793    G:0.23967
+position  3:    T:0.51240    C:0.13223    A:0.23967    G:0.11570
+Average         T:0.32507    C:0.20386    A:0.26997    G:0.20110
+
+#18: AY515512_1_SARete_genome_5568
+position  1:    T:0.19835    C:0.23140    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.23967    A:0.25620    G:0.23967
+position  3:    T:0.51240    C:0.12397    A:0.24793    G:0.11570
+Average         T:0.32507    C:0.19835    A:0.27548    G:0.20110
+
+#19: AY613947_1_SARete_genome_5541
+position  1:    T:0.20661    C:0.22314    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.23967    A:0.25620    G:0.23967
+position  3:    T:0.51240    C:0.12397    A:0.24793    G:0.11570
+Average         T:0.32782    C:0.19559    A:0.27548    G:0.20110
+
+#20: AY545914_1_SARete_genome_5509
+position  1:    T:0.19835    C:0.23140    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.24793    A:0.24793    G:0.23967
+position  3:    T:0.51240    C:0.12397    A:0.24793    G:0.11570
+Average         T:0.32507    C:0.20110    A:0.27273    G:0.20110
+
+#21: AY568539_1_SARete_genome_5510
+position  1:    T:0.20661    C:0.22314    A:0.32231    G:0.24793
+position  2:    T:0.26446    C:0.24793    A:0.24793    G:0.23967
+position  3:    T:0.51240    C:0.12397    A:0.24793    G:0.11570
+Average         T:0.32782    C:0.19835    A:0.27273    G:0.20110
+
+#22: AY394995_1_SARete_genome_5906
+position  1:    T:0.19835    C:0.23140    A:0.32231    G:0.24793
+position  2:    T:0.28099    C:0.24793    A:0.25620    G:0.21488
+position  3:    T:0.50413    C:0.14050    A:0.23967    G:0.11570
+Average         T:0.32782    C:0.20661    A:0.27273    G:0.19284
+
+#23: AY545916_1_SARete_genome_5509
+position  1:    T:0.20833    C:0.22500    A:0.31667    G:0.25000
+position  2:    T:0.25833    C:0.25000    A:0.25000    G:0.24167
+position  3:    T:0.51667    C:0.12500    A:0.24167    G:0.11667
+Average         T:0.32778    C:0.20000    A:0.26944    G:0.20278
+
+#24: AY394982_1_SARial_genome_5906
+position  1:    T:0.21505    C:0.22581    A:0.30108    G:0.25806
+position  2:    T:0.31183    C:0.23656    A:0.20430    G:0.24731
+position  3:    T:0.49462    C:0.13978    A:0.25806    G:0.10753
+Average         T:0.34050    C:0.20072    A:0.25448    G:0.20430
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      53 | Ser S TCT      46 | Tyr Y TAT      24 | Cys C TGT     130
+      TTC       0 |       TCC       0 |       TAC      58 |       TGC      82
+Leu L TTA      48 |       TCA       0 | *** * TAA       0 | *** * TGA       0
+      TTG      24 |       TCG       0 |       TAG       0 | Trp W TGG      83
+------------------------------------------------------------------------------
+Leu L CTT     138 | Pro P CCT     116 | His H CAT      71 | Arg R CGT       0
+      CTC      24 |       CCC       0 |       CAC      48 |       CGC      39
+      CTA      46 |       CCA      24 | Gln Q CAA      59 |       CGA      24
+      CTG       0 |       CCG       0 |       CAG      24 |       CGG       0
+------------------------------------------------------------------------------
+Ile I ATT      47 | Thr T ACT     206 | Asn N AAT     122 | Ser S AGT      24
+      ATC      24 |       ACC       0 |       AAC      41 |       AGC      24
+      ATA      59 |       ACA      72 | Lys K AAA      76 | Arg R AGA      46
+Met M ATG      48 |       ACG       1 |       AAG      24 |       AGG      69
+------------------------------------------------------------------------------
+Val V GTT     144 | Ala A GCT     120 | Asp D GAT      47 | Gly G GGT     106
+      GTC       0 |       GCC       0 |       GAC      24 |       GGC       0
+      GTA      72 |       GCA      48 | Glu E GAA      58 |       GGA      24
+      GTG      23 |       GCG      24 |       GAG       0 |       GGG       0
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.20044    C:0.22421    A:0.32297    G:0.25238
+position  2:    T:0.27432    C:0.24031    A:0.24726    G:0.23811
+position  3:    T:0.50988    C:0.13314    A:0.23994    G:0.11704
+Average         T:0.32821    C:0.19922    A:0.27006    G:0.20251
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.00000000  0.00000000
+  0.01639344  0.01639344  0.00000000  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+
+
+TREE #  1:  (1, (((2, (((4, (((((7, (17, (20, (21, 23)))), 15), (16, 22)), 14), (((13, 18), 19), 24))), 6), 5)), 11), ((3, 12), 8)), (9, 10));   MP score: -1
+lnL(ntime: 45  np: 50):   -613.854025      +0.000000
+  25..1    25..26   26..27   27..28   28..2    28..29   29..30   30..31   31..4    31..32   32..33   33..34   34..35   35..36   36..7    36..37   37..17   37..38   38..20   38..39   39..21   39..23   35..15   34..40   40..16   40..22   33..14   32..41   41..42   42..43   43..13   43..18   42..19   41..24   30..6    29..5    27..11   26..44   44..45   45..3    45..12   44..8    25..46   46..9    46..10 
+ 0.000004 0.000004 0.000004 0.000004 0.000004 0.008753 0.000004 0.000004 0.000004 0.000004 0.000004 0.000004 0.000004 0.008332 0.008809 0.000004 0.000004 0.008305 0.000004 0.008296 0.000004 0.000004 0.008208 0.000004 0.008217 0.034206 0.000004 0.000004 0.008251 0.000004 0.000004 0.000004 0.008246 0.000004 0.000004 0.008737 0.000004 0.000004 0.008744 0.000004 0.000004 0.008899 0.000004 0.000004 0.000004 2.649678 0.798633 0.005000 3.236929 8.071353
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  0.136131
+
+(1: 0.000004, (((2: 0.000004, (((4: 0.000004, (((((7: 0.008809, (17: 0.000004, (20: 0.000004, (21: 0.000004, 23: 0.000004): 0.008296): 0.008305): 0.000004): 0.008332, 15: 0.008208): 0.000004, (16: 0.008217, 22: 0.034206): 0.000004): 0.000004, 14: 0.000004): 0.000004, (((13: 0.000004, 18: 0.000004): 0.000004, 19: 0.008246): 0.008251, 24: 0.000004): 0.000004): 0.000004): 0.000004, 6: 0.000004): 0.000004, 5: 0.008737): 0.008753): 0.000004, 11: 0.000004): 0.000004, ((3: 0.000004, 12: 0.000004): 0.008744, 8: 0.008899): 0.000004): 0.000004, (9: 0.000004, 10: 0.000004): 0.000004);
+
+(AY278491_2_SARete_genome_6192: 0.000004, (((AY559084_1_SARete_genome_5847: 0.000004, (((AY278554_2_SARete_genome_6193: 0.000004, (((((AY345988_1_SARete_genome_5967: 0.008809, (AY304486_1_SARete_genome_6052: 0.000004, (AY545914_1_SARete_genome_5509: 0.000004, (AY568539_1_SARete_genome_5510: 0.000004, AY545916_1_SARete_genome_5509: 0.000004): 0.008296): 0.008305): 0.000004): 0.008332, AY304488_1_SARete_genome_6052: 0.008208): 0.000004, (AY278489_2_SARete_genome_6189: 0.008217, AY394995_1_SARete_genome_5906: 0.034206): 0.000004): 0.000004, AY394981_1_SARial_genome_5906: 0.000004): 0.000004, (((AY545917_1_SARete_genome_5509: 0.000004, AY515512_1_SARete_genome_5568: 0.000004): 0.000004, AY613947_1_SARete_genome_5541: 0.008246): 0.008251, AY394982_1_SARial_genome_5906: 0.000004): 0.000004): 0.000004): 0.000004, AY595412_1_SARete_genome_5754: 0.000004): 0.000004, AY394991_1_SARete_genome_5906: 0.008737): 0.008753): 0.000004, AY321118_1_SARete_genome_6132: 0.000004): 0.000004, ((AY338175_1_SARete_genome_6109: 0.000004, AY283797_1_SARete_genome_6171: 0.000004): 0.008744, AY283795_1_SARete_genome_6171: 0.008899): 0.000004): 0.000004, (AY559092_1_SARete_genome_5847: 0.000004, AY357075_1_SARete_genome_5979: 0.000004): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  2.64968
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.79863  p =   0.00500 q =   3.23693
+ (p1 =   0.20137) w =   8.07135
+
+
+MLEs of dN/dS (w) for site classes (K=6)
+
+p:   0.15973  0.15973  0.15973  0.15973  0.15973  0.20137
+w:   0.00000  0.00000  0.00000  0.00000  0.00000  8.07135
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  25..1       0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  25..26      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  26..27      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  27..28      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  28..2       0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  28..29      0.009    262.6    106.4   1.6253   0.0033   0.0020    0.9    0.2
+  29..30      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  30..31      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  31..4       0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  31..32      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  32..33      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  33..34      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  34..35      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  35..36      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  36..7       0.009    262.6    106.4   1.6253   0.0033   0.0020    0.9    0.2
+  36..37      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  37..17      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  37..38      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  38..20      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  38..39      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  39..21      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  39..23      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  35..15      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  34..40      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  40..16      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  40..22      0.034    262.6    106.4   1.6253   0.0128   0.0079    3.4    0.8
+  33..14      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  32..41      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  41..42      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  42..43      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  43..13      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  43..18      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  42..19      0.008    262.6    106.4   1.6253   0.0031   0.0019    0.8    0.2
+  41..24      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  30..6       0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  29..5       0.009    262.6    106.4   1.6253   0.0033   0.0020    0.9    0.2
+  27..11      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  26..44      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  44..45      0.009    262.6    106.4   1.6253   0.0033   0.0020    0.9    0.2
+  45..3       0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  45..12      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  44..8       0.009    262.6    106.4   1.6253   0.0033   0.0021    0.9    0.2
+  25..46      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  46..9       0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+  46..10      0.000    262.6    106.4   1.6253   0.0000   0.0000    0.0    0.0
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: AY278491_2_SARete_genome_6192)
+
+            Pr(w>1)     post mean +- SE for w
+
+    11 S      1.000**       8.071
+    17 C      1.000**       8.071
+    31 L      1.000**       8.071
+    48 N      1.000**       8.071
+    50 R      1.000**       8.071
+    70 R      1.000**       8.071
+    95 I      1.000**       8.071
+   111 R      1.000**       8.071
+   114 L      1.000**       8.071
+   118 N      1.000**       8.071
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: AY278491_2_SARete_genome_6192)
+
+            Pr(w>1)     post mean +- SE for w
+
+    11 S      0.715         4.656 +- 3.342
+    17 C      0.943         6.129 +- 2.835
+    31 L      0.943         6.130 +- 2.834
+    48 N      0.940         6.109 +- 2.847
+    50 R      0.714         4.646 +- 3.342
+    70 R      0.718         4.675 +- 3.341
+    95 I      0.695         4.515 +- 3.344
+   111 R      0.718         4.675 +- 3.341
+   114 L      0.715         4.656 +- 3.342
+   118 N      0.705         4.585 +- 3.344
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.009  0.012  0.016  0.023  0.036  0.061  0.117  0.254  0.394  0.078
+p :   0.129  0.118  0.110  0.103  0.098  0.094  0.091  0.088  0.085  0.083
+q :   0.072  0.084  0.091  0.097  0.102  0.106  0.109  0.111  0.113  0.115
+ws:   0.036  0.081  0.099  0.110  0.117  0.120  0.118  0.114  0.107  0.099
+
+Time used:  7:31

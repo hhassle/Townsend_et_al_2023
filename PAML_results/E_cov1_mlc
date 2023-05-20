@@ -1,0 +1,577 @@
+      9    231
+
+AY278491_2_SARete_genome_6192   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+AY559085_1_SARete_genome_5847   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ATA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+AY350750_1_SARete_genome_5979   ATG TAC TCA TTC GTT TTG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+AY394981_1_SARial_genome_5906   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTT ??? 
+AY394980_1_SARial_genome_5906   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTN NNN NNN NNN NNN NNN ??? 
+AY338175_1_SARete_genome_6109   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTT ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+AY278489_2_SARete_genome_6189   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC ATG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+AY357075_1_SARete_genome_5979   ATG TAC TCA TTC TTT TCG GAA GAA ACA GGT ACG TTA ATA GTT AAT AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC AAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+AY357076_1_SARete_genome_5979   ATG TAC TCA TTC GTT TCG GAA GAA ACA GGT ACG TTA ATA AA- --T AGC GTA CTT CTT TTT CTT GCT TTC GTG GTA TTC TTG CTA GTC ACA CTA GCC ATC CTT ACT GCG CTT CGA TTG TGT GCG TAC TGC TGC TAT ATT GTT AAC GTG AGT TTA GTA AAA CCA ACG GTT TAC GTC TAC TCG CGT GTT AAA AAT CTG AAC TCT TCT GAA GGA GTT CCT GAT CTT CTG GTC ??? 
+
+
+
+Printing out site pattern counts
+
+
+         9        159  P
+
+AY278491_2_SARete_genome_6192    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTC GTG GTG GTT GTT GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY559085_1_SARete_genome_5847    ??? AAA AAC AAT AAT AAT ACA ATA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTC GTG GTG GTT GTT GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY350750_1_SARete_genome_5979    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTC GTG GTG GTT GTT GTT GTT TAC TCA TCG TTG TCT TGC TGT TTA TTC TTG TTT
+AY394981_1_SARial_genome_5906    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTT GTG GTG GTT GTT GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY394980_1_SARial_genome_5906    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA NNN CGA CGT CTA CTG NNN CTT NNN GAA NNN GCC GCG GCT GGA GGT GTA GTC GTC NNN GTG GTG GTN GTT GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY338175_1_SARete_genome_6109    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTT GTC GTG GTG GTT GTT GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY278489_2_SARete_genome_6189    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTC ATG GTG GTT GTT GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY357075_1_SARete_genome_5979    ??? AAA AAC AAT AAT AAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTC GTG GTG GTT GTT GTT TTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+AY357076_1_SARete_genome_5979    ??? AAA AAC --T AAT TAT ACA ACA ACG ACT AGC AGT ATA ATC ATG ATT CCA CCT CGA CGT CTA CTG CTG CTT CTT GAA GAT GCC GCG GCT GGA GGT GTA GTC GTC GTC GTG GTG GTT AA- GTT GTT TAC TCA TCG TCG TCT TGC TGT TTA TTC TTG TTT
+
+
+
+    1    2    2    1    1    1    1    1    2    1    1    1    1    1    1
+    1    1    1    1    1    2    1    1    5    1    3    1    1    2    1
+    1    1    3    1    1    1    1    1    1    1    3    1    4    1    1
+    1    2    2    1    2    3    2    1
+
+CODONML (in paml version 4.8a, August 2014)  /Users/stephengaughran/Downloads/COVID_paml/renamed_E/cov1_E_aln_rename.fasta
+Model: One dN/dS ratio for branches, 
+Codon frequency model: Fequal
+Site-class models: 
+ns =   9  ls =  77
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   1   1   1   1   1   1 | Ser TCT   2   2   2   2   2   2 | Tyr TAT   0   0   0   0   0   0 | Cys TGT   1   1   1   1   1   1
+    TTC   3   3   3   3   3   3 |     TCC   0   0   0   0   0   0 |     TAC   4   4   4   4   4   4 |     TGC   2   2   2   2   2   2
+Leu TTA   2   2   2   2   2   2 |     TCA   1   1   1   1   1   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   2   2   3   2   2   2 |     TCG   2   2   1   2   2   2 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   6   6   6   6   5   6 | Pro CCT   1   1   1   1   0   1 | His CAT   0   0   0   0   0   0 | Arg CGT   1   1   1   1   1   1
+    CTC   0   0   0   0   0   0 |     CCC   0   0   0   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   0   0   0   0   0
+    CTA   2   2   2   2   2   2 |     CCA   1   1   1   1   1   1 | Gln CAA   0   0   0   0   0   0 |     CGA   1   1   1   1   1   1
+    CTG   2   2   2   2   1   2 |     CCG   0   0   0   0   0   0 |     CAG   0   0   0   0   0   0 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   1   1   1   1   1 | Thr ACT   1   1   1   1   1   1 | Asn AAT   3   3   3   3   3   3 | Ser AGT   1   1   1   1   1   1
+    ATC   1   1   1   1   1   1 |     ACC   0   0   0   0   0   0 |     AAC   2   2   2   2   2   2 |     AGC   1   1   1   1   1   1
+    ATA   1   2   1   1   1   1 |     ACA   2   1   2   2   2   2 | Lys AAA   2   2   2   2   2   2 | Arg AGA   0   0   0   0   0   0
+Met ATG   1   1   1   1   1   1 |     ACG   2   2   2   2   2   2 |     AAG   0   0   0   0   0   0 |     AGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   6   6   6   7   5   7 | Ala GCT   1   1   1   1   1   1 | Asp GAT   1   1   1   1   0   1 | Gly GGT   1   1   1   1   1   1
+    GTC   3   3   3   2   2   2 |     GCC   1   1   1   1   1   1 |     GAC   0   0   0   0   0   0 |     GGC   0   0   0   0   0   0
+    GTA   3   3   3   3   3   3 |     GCA   0   0   0   0   0   0 | Glu GAA   3   3   3   3   3   3 |     GGA   1   1   1   1   1   1
+    GTG   2   2   2   2   2   2 |     GCG   2   2   2   2   2   2 |     GAG   0   0   0   0   0   0 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Phe TTT   1   2   1 | Ser TCT   2   2   2 | Tyr TAT   0   0   1 | Cys TGT   1   1   1
+    TTC   3   3   3 |     TCC   0   0   0 |     TAC   4   4   4 |     TGC   2   2   2
+Leu TTA   2   2   2 |     TCA   1   1   1 | *** TAA   0   0   0 | *** TGA   0   0   0
+    TTG   2   2   2 |     TCG   2   2   2 |     TAG   0   0   0 | Trp TGG   0   0   0
+--------------------------------------------------------------------------------------
+Leu CTT   6   6   6 | Pro CCT   1   1   1 | His CAT   0   0   0 | Arg CGT   1   1   1
+    CTC   0   0   0 |     CCC   0   0   0 |     CAC   0   0   0 |     CGC   0   0   0
+    CTA   2   2   2 |     CCA   1   1   1 | Gln CAA   0   0   0 |     CGA   1   1   1
+    CTG   2   2   2 |     CCG   0   0   0 |     CAG   0   0   0 |     CGG   0   0   0
+--------------------------------------------------------------------------------------
+Ile ATT   1   1   1 | Thr ACT   1   1   1 | Asn AAT   3   3   1 | Ser AGT   1   1   1
+    ATC   1   1   1 |     ACC   0   0   0 |     AAC   2   2   2 |     AGC   1   1   1
+    ATA   1   1   1 |     ACA   2   2   2 | Lys AAA   2   2   2 | Arg AGA   0   0   0
+Met ATG   2   1   1 |     ACG   2   2   2 |     AAG   0   0   0 |     AGG   0   0   0
+--------------------------------------------------------------------------------------
+Val GTT   6   5   5 | Ala GCT   1   1   1 | Asp GAT   1   1   1 | Gly GGT   1   1   1
+    GTC   3   3   3 |     GCC   1   1   1 |     GAC   0   0   0 |     GGC   0   0   0
+    GTA   3   3   3 |     GCA   0   0   0 | Glu GAA   3   3   3 |     GGA   1   1   1
+    GTG   1   2   2 |     GCG   2   2   2 |     GAG   0   0   0 |     GGG   0   0   0
+--------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: AY278491_2_SARete_genome_6192
+position  1:    T:0.26316    C:0.18421    A:0.23684    G:0.31579
+position  2:    T:0.47368    C:0.21053    A:0.19737    G:0.11842
+position  3:    T:0.35526    C:0.22368    A:0.25000    G:0.17105
+Average         T:0.36404    C:0.20614    A:0.22807    G:0.20175
+
+#2: AY559085_1_SARete_genome_5847
+position  1:    T:0.26316    C:0.18421    A:0.23684    G:0.31579
+position  2:    T:0.48684    C:0.19737    A:0.19737    G:0.11842
+position  3:    T:0.35526    C:0.22368    A:0.25000    G:0.17105
+Average         T:0.36842    C:0.20175    A:0.22807    G:0.20175
+
+#3: AY350750_1_SARete_genome_5979
+position  1:    T:0.26316    C:0.18421    A:0.23684    G:0.31579
+position  2:    T:0.48684    C:0.19737    A:0.19737    G:0.11842
+position  3:    T:0.35526    C:0.22368    A:0.25000    G:0.17105
+Average         T:0.36842    C:0.20175    A:0.22807    G:0.20175
+
+#4: AY394981_1_SARial_genome_5906
+position  1:    T:0.26316    C:0.18421    A:0.23684    G:0.31579
+position  2:    T:0.47368    C:0.21053    A:0.19737    G:0.11842
+position  3:    T:0.36842    C:0.21053    A:0.25000    G:0.17105
+Average         T:0.36842    C:0.20175    A:0.22807    G:0.20175
+
+#5: AY394980_1_SARial_genome_5906
+position  1:    T:0.28571    C:0.15714    A:0.25714    G:0.30000
+position  2:    T:0.45714    C:0.21429    A:0.20000    G:0.12857
+position  3:    T:0.32857    C:0.22857    A:0.27143    G:0.17143
+Average         T:0.35714    C:0.20000    A:0.24286    G:0.20000
+
+#6: AY338175_1_SARete_genome_6109
+position  1:    T:0.26316    C:0.18421    A:0.23684    G:0.31579
+position  2:    T:0.47368    C:0.21053    A:0.19737    G:0.11842
+position  3:    T:0.36842    C:0.21053    A:0.25000    G:0.17105
+Average         T:0.36842    C:0.20175    A:0.22807    G:0.20175
+
+#7: AY278489_2_SARete_genome_6189
+position  1:    T:0.26316    C:0.18421    A:0.25000    G:0.30263
+position  2:    T:0.47368    C:0.21053    A:0.19737    G:0.11842
+position  3:    T:0.35526    C:0.22368    A:0.25000    G:0.17105
+Average         T:0.36404    C:0.20614    A:0.23246    G:0.19737
+
+#8: AY357075_1_SARete_genome_5979
+position  1:    T:0.27632    C:0.18421    A:0.23684    G:0.30263
+position  2:    T:0.47368    C:0.21053    A:0.19737    G:0.11842
+position  3:    T:0.35526    C:0.22368    A:0.25000    G:0.17105
+Average         T:0.36842    C:0.20614    A:0.22807    G:0.19737
+
+#9: AY357076_1_SARete_genome_5979
+position  1:    T:0.28378    C:0.18919    A:0.21622    G:0.31081
+position  2:    T:0.47297    C:0.21622    A:0.18919    G:0.12162
+position  3:    T:0.33784    C:0.22973    A:0.25676    G:0.17568
+Average         T:0.36486    C:0.21171    A:0.22072    G:0.20270
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      10 | Ser S TCT      18 | Tyr Y TAT       1 | Cys C TGT       9
+      TTC      27 |       TCC       0 |       TAC      36 |       TGC      18
+Leu L TTA      18 |       TCA       9 | *** * TAA       0 | *** * TGA       0
+      TTG      19 |       TCG      17 |       TAG       0 | Trp W TGG       0
+------------------------------------------------------------------------------
+Leu L CTT      53 | Pro P CCT       8 | His H CAT       0 | Arg R CGT       9
+      CTC       0 |       CCC       0 |       CAC       0 |       CGC       0
+      CTA      18 |       CCA       9 | Gln Q CAA       0 |       CGA       9
+      CTG      17 |       CCG       0 |       CAG       0 |       CGG       0
+------------------------------------------------------------------------------
+Ile I ATT       9 | Thr T ACT       9 | Asn N AAT      25 | Ser S AGT       9
+      ATC       9 |       ACC       0 |       AAC      18 |       AGC       9
+      ATA      10 |       ACA      17 | Lys K AAA      18 | Arg R AGA       0
+Met M ATG      10 |       ACG      18 |       AAG       0 |       AGG       0
+------------------------------------------------------------------------------
+Val V GTT      53 | Ala A GCT       9 | Asp D GAT       8 | Gly G GGT       9
+      GTC      24 |       GCC       9 |       GAC       0 |       GGC       0
+      GTA      27 |       GCA       0 | Glu E GAA      27 |       GGA       9
+      GTG      17 |       GCG      18 |       GAG       0 |       GGG       0
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.26923    C:0.18195    A:0.23817    G:0.31065
+position  2:    T:0.47485    C:0.20858    A:0.19675    G:0.11982
+position  3:    T:0.35355    C:0.22189    A:0.25296    G:0.17160
+Average         T:0.36588    C:0.20414    A:0.22929    G:0.20069
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.00000000  0.00000000
+  0.01639344  0.01639344  0.00000000  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+  0.01639344  0.01639344  0.01639344  0.01639344
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+AY278491_2_SARete_genome_6192
+AY559085_1_SARete_genome_5847-1.0000 (0.0060 0.0000)
+AY350750_1_SARete_genome_5979-1.0000 (0.0060 0.0000)-1.0000 (0.0120 0.0000)
+AY394981_1_SARial_genome_5906-1.0000 (0.0000 0.0166) 0.3598 (0.0060 0.0167) 0.3598 (0.0060 0.0167)
+AY394980_1_SARial_genome_5906-1.0000 (0.0000 0.0000)-1.0000 (0.0065 0.0000)-1.0000 (0.0065 0.0000)-1.0000 (0.0000 0.0000)
+AY338175_1_SARete_genome_6109-1.0000 (0.0000 0.0166) 0.3598 (0.0060 0.0167) 0.3598 (0.0060 0.0167)-1.0000 (0.0000 0.0336)-1.0000 (0.0000 0.0184)
+AY278489_2_SARete_genome_6189-1.0000 (0.0060 0.0000)-1.0000 (0.0120 0.0000)-1.0000 (0.0120 0.0000) 0.3570 (0.0060 0.0168)-1.0000 (0.0065 0.0000) 0.3570 (0.0060 0.0168)
+AY357075_1_SARete_genome_5979-1.0000 (0.0060 0.0000)-1.0000 (0.0120 0.0000)-1.0000 (0.0120 0.0000) 0.3584 (0.0060 0.0167)-1.0000 (0.0065 0.0000) 0.3584 (0.0060 0.0167)-1.0000 (0.0120 0.0000)
+AY357076_1_SARete_genome_5979-1.0000 (0.0062 0.0000)-1.0000 (0.0124 0.0000)-1.0000 (0.0124 0.0000) 0.3643 (0.0062 0.0170)-1.0000 (0.0067 0.0000) 0.3643 (0.0062 0.0170)-1.0000 (0.0124 0.0000)-1.0000 (0.0124 0.0000)
+
+
+Model 0: one-ratio
+
+
+TREE #  1:  (1, ((2, 6), (3, 7)), (((4, 5), 9), 8));   MP score: -1
+check convergence..
+lnL(ntime: 15  np: 17):   -374.323075      +0.000000
+  10..1    10..11   11..12   12..2    12..6    11..13   13..3    13..7    10..14   14..15   15..16   16..4    16..5    15..9    14..8  
+ 0.000004 0.000004 0.000004 0.013094 0.013101 0.000004 0.013105 0.013090 0.000004 0.000004 0.000004 0.013097 0.000004 0.040345 0.013140 4.045554 1.615777
+SEs for parameters:
+ -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 30.686627
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   0.11900
+
+(1: 0.000004, ((2: 0.013094, 6: 0.013101): 0.000004, (3: 0.013105, 7: 0.013090): 0.000004): 0.000004, (((4: 0.013097, 5: 0.000004): 0.000004, 9: 0.040345): 0.000004, 8: 0.013140): 0.000004);
+
+(AY278491_2_SARete_genome_6192: 0.000004, ((AY559085_1_SARete_genome_5847: 0.013094, AY338175_1_SARete_genome_6109: 0.013101): 0.000004, (AY350750_1_SARete_genome_5979: 0.013105, AY278489_2_SARete_genome_6189: 0.013090): 0.000004): 0.000004, (((AY394981_1_SARial_genome_5906: 0.013097, AY394980_1_SARial_genome_5906: 0.000004): 0.000004, AY357076_1_SARete_genome_5979: 0.040345): 0.000004, AY357075_1_SARete_genome_5979: 0.013140): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  4.04555
+
+omega (dN/dS) =  1.61578
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  10..1      0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  10..11     0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  11..12     0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  12..2      0.013   161.2    69.8  1.6158  0.0049  0.0031   0.8   0.2
+  12..6      0.013   161.2    69.8  1.6158  0.0049  0.0031   0.8   0.2
+  11..13     0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  13..3      0.013   161.2    69.8  1.6158  0.0049  0.0031   0.8   0.2
+  13..7      0.013   161.2    69.8  1.6158  0.0049  0.0031   0.8   0.2
+  10..14     0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  14..15     0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  15..16     0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  16..4      0.013   161.2    69.8  1.6158  0.0049  0.0031   0.8   0.2
+  16..5      0.000   161.2    69.8  1.6158  0.0000  0.0000   0.0   0.0
+  15..9      0.040   161.2    69.8  1.6158  0.0152  0.0094   2.4   0.7
+  14..8      0.013   161.2    69.8  1.6158  0.0050  0.0031   0.8   0.2
+
+tree length for dN:       0.0448
+tree length for dS:       0.0277
+
+
+Time used:  0:08
+
+
+Model 1: NearlyNeutral (2 categories)
+
+
+TREE #  1:  (1, ((2, 6), (3, 7)), (((4, 5), 9), 8));   MP score: -1
+lnL(ntime: 15  np: 18):   -374.513016      +0.000000
+  10..1    10..11   11..12   12..2    12..6    11..13   13..3    13..7    10..14   14..15   15..16   16..4    16..5    15..9    14..8  
+ 0.000004 0.000004 0.000004 0.013034 0.013034 0.000004 0.013032 0.013034 0.000004 0.000004 0.013030 0.000004 0.000004 0.040090 0.013070 3.797943 0.000010 0.000001
+SEs for parameters:
+ -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 120587.307342 371105.712793 370001.467074 813.730255 275.616112 56.571396 25750.384945 60.647702 5469058.658966
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   0.11836
+
+(1: 0.000004, ((2: 0.013034, 6: 0.013034): 0.000004, (3: 0.013032, 7: 0.013034): 0.000004): 0.000004, (((4: 0.000004, 5: 0.000004): 0.013030, 9: 0.040090): 0.000004, 8: 0.013070): 0.000004);
+
+(AY278491_2_SARete_genome_6192: 0.000004, ((AY559085_1_SARete_genome_5847: 0.013034, AY338175_1_SARete_genome_6109: 0.013034): 0.000004, (AY350750_1_SARete_genome_5979: 0.013032, AY278489_2_SARete_genome_6189: 0.013034): 0.000004): 0.000004, (((AY394981_1_SARial_genome_5906: 0.000004, AY394980_1_SARial_genome_5906: 0.000004): 0.013030, AY357076_1_SARete_genome_5979: 0.040090): 0.000004, AY357075_1_SARete_genome_5979: 0.013070): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.79794
+
+
+dN/dS (w) for site classes (K=2)
+
+p:   0.00001  0.99999
+w:   0.00000  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  10..1       0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  10..11      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  11..12      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  12..2       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  12..6       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  11..13      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  13..3       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  13..7       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  10..14      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  14..15      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  15..16      0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  16..4       0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  16..5       0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  15..9       0.040    161.6     69.4   1.0000   0.0134   0.0134    2.2    0.9
+  14..8       0.013    161.6     69.4   1.0000   0.0044   0.0044    0.7    0.3
+
+
+Time used:  0:15
+
+
+Model 2: PositiveSelection (3 categories)
+
+
+TREE #  1:  (1, ((2, 6), (3, 7)), (((4, 5), 9), 8));   MP score: -1
+lnL(ntime: 15  np: 20):   -373.648013      +0.000000
+  10..1    10..11   11..12   12..2    12..6    11..13   13..3    13..7    10..14   14..15   15..16   16..4    16..5    15..9    14..8  
+ 0.000004 0.000004 0.000004 0.013140 0.013205 0.000004 0.013243 0.013104 0.000004 0.000004 0.013201 0.000004 0.000004 0.042023 0.013342 4.046123 0.737140 0.000000 0.000001 6.295564
+SEs for parameters:
+ 4598498.348028 -1.000000 1378969.556108 18063.711416 2878.677644 719587.841904 9430.531963 9424.467196 -1.000000 -1.000000 -1.000000 483.166775 3.406870 -1.000000 -1.000000 1792.218374 376093.202311 408856.304513 372298.049169 275136.908726
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   0.12129
+
+(1: 0.000004, ((2: 0.013140, 6: 0.013205): 0.000004, (3: 0.013243, 7: 0.013104): 0.000004): 0.000004, (((4: 0.000004, 5: 0.000004): 0.013201, 9: 0.042023): 0.000004, 8: 0.013342): 0.000004);
+
+(AY278491_2_SARete_genome_6192: 0.000004, ((AY559085_1_SARete_genome_5847: 0.013140, AY338175_1_SARete_genome_6109: 0.013205): 0.000004, (AY350750_1_SARete_genome_5979: 0.013243, AY278489_2_SARete_genome_6189: 0.013104): 0.000004): 0.000004, (((AY394981_1_SARial_genome_5906: 0.000004, AY394980_1_SARial_genome_5906: 0.000004): 0.013201, AY357076_1_SARete_genome_5979: 0.042023): 0.000004, AY357075_1_SARete_genome_5979: 0.013342): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  4.04612
+
+
+dN/dS (w) for site classes (K=3)
+
+p:   0.73714  0.00000  0.26286
+w:   0.00000  1.00000  6.29557
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  10..1       0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  10..11      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  11..12      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  12..2       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  12..6       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  11..13      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  13..3       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  13..7       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  10..14      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  14..15      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  15..16      0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  16..4       0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  16..5       0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  15..9       0.042    161.2     69.8   1.6549   0.0159   0.0096    2.6    0.7
+  14..8       0.013    161.2     69.8   1.6549   0.0051   0.0031    0.8    0.2
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: AY278491_2_SARete_genome_6192)
+
+            Pr(w>1)     post mean +- SE for w
+
+     5 V      1.000**       6.296
+     6 S      1.000**       6.296
+    14 V      1.000**       6.296
+    24 V      1.000**       6.296
+    30 T      1.000**       6.296
+    45 N      1.000**       6.296
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: AY278491_2_SARete_genome_6192)
+
+            Pr(w>1)     post mean +- SE for w
+
+     5 V      0.558         3.526 +- 3.093
+     6 S      0.561         3.550 +- 3.101
+    14 V      0.838         5.138 +- 3.075
+    24 V      0.555         3.506 +- 3.087
+    30 T      0.555         3.510 +- 3.088
+    45 N      0.555         3.506 +- 3.087
+
+
+
+The grid (see ternary graph for p0-p1)
+
+w0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+w2:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+w0:   0.098  0.099  0.099  0.100  0.101  0.101  0.101  0.101  0.101  0.100
+w2:   0.077  0.118  0.124  0.119  0.111  0.103  0.096  0.090  0.084  0.078
+
+Posterior for p0-p1 (see the ternary graph)
+
+ 0.013
+ 0.018 0.017 0.012
+ 0.013 0.017 0.018 0.016 0.011
+ 0.008 0.011 0.013 0.017 0.018 0.016 0.010
+ 0.006 0.008 0.009 0.012 0.014 0.018 0.018 0.015 0.009
+ 0.005 0.005 0.006 0.008 0.009 0.012 0.014 0.018 0.018 0.014 0.008
+ 0.004 0.004 0.005 0.006 0.007 0.008 0.010 0.013 0.015 0.018 0.018 0.013 0.007
+ 0.003 0.003 0.004 0.004 0.005 0.006 0.007 0.009 0.010 0.013 0.015 0.018 0.017 0.012 0.007
+ 0.003 0.003 0.003 0.004 0.004 0.005 0.005 0.006 0.007 0.009 0.011 0.014 0.016 0.018 0.017 0.011 0.006
+ 0.002 0.003 0.003 0.003 0.003 0.004 0.004 0.005 0.005 0.007 0.007 0.009 0.011 0.014 0.016 0.017 0.016 0.010 0.005
+
+sum of density on p0-p1 =   1.000000
+
+Time used:  0:40
+
+
+Model 7: beta (10 categories)
+
+
+TREE #  1:  (1, ((2, 6), (3, 7)), (((4, 5), 9), 8));   MP score: -1
+check convergence..
+lnL(ntime: 15  np: 18):   -374.513020      +0.000000
+  10..1    10..11   11..12   12..2    12..6    11..13   13..3    13..7    10..14   14..15   15..16   16..4    16..5    15..9    14..8  
+ 0.000004 0.000004 0.000004 0.013034 0.013034 0.000004 0.013032 0.013034 0.000004 0.000004 0.013030 0.000004 0.000004 0.040090 0.013070 3.797957 50.823956 0.005000
+SEs for parameters:
+ -1.000000 4447191.433680 3287845.150313 9693.003358 9693.033388 -1.000000 -1.000000 -1.000000 4824292.225399 119027.012408 344533.932559 343502.281822 755.447084 258.440719 54.590375 23935.373835 1400610265.227900 126357.343455
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   0.11836
+
+(1: 0.000004, ((2: 0.013034, 6: 0.013034): 0.000004, (3: 0.013032, 7: 0.013034): 0.000004): 0.000004, (((4: 0.000004, 5: 0.000004): 0.013030, 9: 0.040090): 0.000004, 8: 0.013070): 0.000004);
+
+(AY278491_2_SARete_genome_6192: 0.000004, ((AY559085_1_SARete_genome_5847: 0.013034, AY338175_1_SARete_genome_6109: 0.013034): 0.000004, (AY350750_1_SARete_genome_5979: 0.013032, AY278489_2_SARete_genome_6189: 0.013034): 0.000004): 0.000004, (((AY394981_1_SARial_genome_5906: 0.000004, AY394980_1_SARial_genome_5906: 0.000004): 0.013030, AY357076_1_SARete_genome_5979: 0.040090): 0.000004, AY357075_1_SARete_genome_5979: 0.013070): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.79796
+
+Parameters in M7 (beta):
+ p =  50.82396  q =   0.00500
+
+
+dN/dS (w) for site classes (K=10)
+
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  10..1       0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  10..11      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  11..12      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  12..2       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  12..6       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  11..13      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  13..3       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  13..7       0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  10..14      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  14..15      0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  15..16      0.013    161.6     69.4   1.0000   0.0043   0.0043    0.7    0.3
+  16..4       0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  16..5       0.000    161.6     69.4   1.0000   0.0000   0.0000    0.0    0.0
+  15..9       0.040    161.6     69.4   1.0000   0.0134   0.0134    2.2    0.9
+  14..8       0.013    161.6     69.4   1.0000   0.0044   0.0044    0.7    0.3
+
+
+Time used:  1:28
+
+
+Model 8: beta&w>1 (11 categories)
+
+
+TREE #  1:  (1, ((2, 6), (3, 7)), (((4, 5), 9), 8));   MP score: -1
+lnL(ntime: 15  np: 20):   -373.648013      +0.000000
+  10..1    10..11   11..12   12..2    12..6    11..13   13..3    13..7    10..14   14..15   15..16   16..4    16..5    15..9    14..8  
+ 0.000004 0.000004 0.000004 0.013140 0.013205 0.000004 0.013243 0.013104 0.000004 0.000004 0.013201 0.000004 0.000004 0.042023 0.013342 4.046116 0.737141 0.005000 1.711742 6.295588
+SEs for parameters:
+ -1.000000 -1.000000 1395186.574529 18280.150501 2912.273280 722005.056345 9464.877955 9458.713849 2996917.095199 50231.036186 571.528562 483.549432 3.395571 134.007621 128.651313 1823.225101 1014.244179 1122078.710856 415805987.903562 13382.964008
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   0.12129
+
+(1: 0.000004, ((2: 0.013140, 6: 0.013205): 0.000004, (3: 0.013243, 7: 0.013104): 0.000004): 0.000004, (((4: 0.000004, 5: 0.000004): 0.013201, 9: 0.042023): 0.000004, 8: 0.013342): 0.000004);
+
+(AY278491_2_SARete_genome_6192: 0.000004, ((AY559085_1_SARete_genome_5847: 0.013140, AY338175_1_SARete_genome_6109: 0.013205): 0.000004, (AY350750_1_SARete_genome_5979: 0.013243, AY278489_2_SARete_genome_6189: 0.013104): 0.000004): 0.000004, (((AY394981_1_SARial_genome_5906: 0.000004, AY394980_1_SARial_genome_5906: 0.000004): 0.013201, AY357076_1_SARete_genome_5979: 0.042023): 0.000004, AY357075_1_SARete_genome_5979: 0.013342): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  4.04612
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.73714  p =   0.00500 q =   1.71174
+ (p1 =   0.26286) w =   6.29559
+
+
+dN/dS (w) for site classes (K=11)
+
+p:   0.07371  0.07371  0.07371  0.07371  0.07371  0.07371  0.07371  0.07371  0.07371  0.07371  0.26286
+w:   0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00002  6.29560
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  10..1       0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  10..11      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  11..12      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  12..2       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  12..6       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  11..13      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  13..3       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  13..7       0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  10..14      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  14..15      0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  15..16      0.013    161.2     69.8   1.6549   0.0050   0.0030    0.8    0.2
+  16..4       0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  16..5       0.000    161.2     69.8   1.6549   0.0000   0.0000    0.0    0.0
+  15..9       0.042    161.2     69.8   1.6549   0.0159   0.0096    2.6    0.7
+  14..8       0.013    161.2     69.8   1.6549   0.0051   0.0031    0.8    0.2
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: AY278491_2_SARete_genome_6192)
+
+            Pr(w>1)     post mean +- SE for w
+
+     5 V      1.000**       6.296
+     6 S      1.000**       6.296
+    14 V      1.000**       6.296
+    24 V      1.000**       6.296
+    30 T      1.000**       6.296
+    45 N      1.000**       6.296
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: AY278491_2_SARete_genome_6192)
+
+            Pr(w>1)     post mean +- SE for w
+
+     5 V      0.733         3.912 +- 3.005
+     6 S      0.736         3.931 +- 3.008
+    14 V      0.929         5.010 +- 2.871
+    24 V      0.731         3.896 +- 3.003
+    30 T      0.731         3.899 +- 3.003
+    45 N      0.731         3.896 +- 3.003
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.030  0.036  0.044  0.055  0.071  0.096  0.140  0.205  0.231  0.093
+p :   0.097  0.099  0.100  0.100  0.101  0.101  0.101  0.101  0.101  0.101
+q :   0.100  0.101  0.101  0.101  0.100  0.100  0.100  0.099  0.099  0.099
+ws:   0.108  0.154  0.137  0.118  0.103  0.092  0.083  0.075  0.068  0.062
+
+Time used:  2:15
