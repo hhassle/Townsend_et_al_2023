@@ -16,15 +16,15 @@ Jeffrey P. Townsend<sup>1,2,3,\*</sup>, Stephen Gaughran<sup>3,4</sup>, Hayley B
 <sup>8</sup> Center for Infectious Disease Modeling and Analysis, Department of Epidemiology of Microbial Disease, Yale School of Public Health, New Haven, Connecticut 06525, USA<br>
 <sup>9</sup> Department of Bioinformatics and Genomics, University of North Carolina, Charlotte, NC 28223, USA<br>
 
-\* Corresponding authors:<br>
+<sup>\*</sup>  Corresponding authors:<br>
   Jeffrey P. Townsend<br>
   135 College St, New Haven, CT 06510-2483. jeffrey.townsend@yale.edu, (203) 737-7042<br>
   Alex Dornburg<br>
   9331 Robert D. Snyder Rd, Room 357, Charlotte, NC 28223. adornbur@uncc.edu, (704) 687-8437<br>
 
-Electronic Data Files prepared by:
-Hayley B. Hassler
-hayley.hassler@yale.edu
+Electronic Data Files prepared by:<br>
+Hayley B. Hassler<br>
+hayley.hassler@yale.edu<br>
 
 
 ###
