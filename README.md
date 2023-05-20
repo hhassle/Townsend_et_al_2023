@@ -8,21 +8,13 @@ Jeffrey P. Townsend1,4,5,\*, Stephen Gaughran5,6, Hayley B. Hassler1, J. Nichola
 
 
 1 Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut 06510, USA
-
 2 Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut 06511, USA
-
 3 Department of Ecology and Evolutionary Biology, Yale University, New Haven, Connecticut 06525, USA
-
 4 Department of Ecology and Evolutionary Biology, Princeton University, Princeton, New Jersey 08544, USA
-
 5 Interdisciplinary Graduate Program in Quantitative Biosciences, Georgia Institute of Technology, Atlanta, GA 30332, USA
-
 6 Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China
-
 7 Department of Integrative Biology, University of Texas at Austin, Austin, TX 78712, USA
-
 8 Center for Infectious Disease Modeling and Analysis, Department of Epidemiology of Microbial Disease, Yale School of Public Health, New Haven, Connecticut 06525, USA
-
 9 Department of Bioinformatics and Genomics, University of North Carolina, Charlotte, NC 28223, USA
 
 
