@@ -4,7 +4,7 @@ Supplemental Electronic Data files for:
 
 Purifying selection and adaptive evolution proximate to the zoonosis of SARS-CoV-1 and SARS-CoV-2 
 
-Jeffrey P. Townsend1,4,5,\*, Stephen Gaughran5,6, Hayley B. Hassler1, J. Nicholas Fisk4, Mofeed Nagib1, Yinfei Wu1, Yaning Wang1,2, Zheng Wang1, Lauren A. Meyers, Alison P. Galvani3, Alex Dornburg*
+Jeffrey P. Townsend1,4,5,\*, Stephen Gaughran5,6, Hayley B. Hassler1, J. Nicholas Fisk4, Mofeed Nagib1, Yinfei Wu1, Yaning Wang1,2, Zheng Wang1, Lauren A. Meyers, Alison P. Galvani3, Alex Dornburg\*
 
 
 1 Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut 06510, USA
