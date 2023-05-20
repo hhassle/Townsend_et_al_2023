@@ -4,7 +4,7 @@ Supplemental Electronic Data files for:
 
 Purifying selection and adaptive evolution proximate to the zoonosis of SARS-CoV-1 and SARS-CoV-2 
 
-Jeffrey P. Townsend[^1],[^2],[^3],[^\*], Stephen Gaughran[^3],[^4], Hayley B. Hassler[^1],[^5], J. Nicholas Fisk[^2], Mofeed Nagib[^1], Yinfei Wu[^1], Yaning Wang[^1],[^6], Zheng Wang[^1], Lauren A. Meyers[^7], Alison P. Galvani[^8], Alex Dornburg[^9],[^\*]
+Jeffrey P. Townsend[^1],[^2],[^3],\*, Stephen Gaughran[^3],[^4], Hayley B. Hassler[^1],[^5], J. Nicholas Fisk[^2], Mofeed Nagib[^1], Yinfei Wu[^1], Yaning Wang[^1],[^6], Zheng Wang[^1], Lauren A. Meyers[^7], Alison P. Galvani[^8], Alex Dornburg[^9],\*
 
 
 [^1]: Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut 06510, USA
@@ -18,7 +18,7 @@ Jeffrey P. Townsend[^1],[^2],[^3],[^\*], Stephen Gaughran[^3],[^4], Hayley B. Ha
 [^9]: Department of Bioinformatics and Genomics, University of North Carolina, Charlotte, NC 28223, USA
 
 
-[^\*]: Corresponding authors
+\* Corresponding authors
   Jeffrey P. Townsend
   135 College St, New Haven, CT 06510-2483. jeffrey.townsend@yale.edu, (203) 737-7042
   Alex Dornburg
